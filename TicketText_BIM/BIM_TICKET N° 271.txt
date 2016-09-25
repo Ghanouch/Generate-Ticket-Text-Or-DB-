@@ -1,0 +1,10 @@
+0 BIM STORES 
+0 Magasin Mohammedia
+0 Route de Mohammedia lotissement badiaa 
+0 Mohammedia
+2 2010-12-20 N° ticket: 0271
+2 TIME: 17:12:12
+1 Wholegrain Mustard 2% 56.17
+1 Orange Blossom Water 13% 58.92
+1 Fruit Spread 2% 18.86
+1 Grape 20% 60.49

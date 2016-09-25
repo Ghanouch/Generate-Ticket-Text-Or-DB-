@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Sidi Rahal Chatai
+0 Route de Sidi Rahal Chatai lotissement badiaa 
+0 Berrechid
+2 2012-06-29 N° ticket: 0153
+2 TIME: 08:06:04
+1 Palm Sugar 5% 57.71
+1 Sliced sharp cheddar 10% 36.42
+1 Pumpkin Seed Pecan 20% 70.54
+1 Caramel Dessert 2% 32.33
+0 TOTAL 197 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  197.04 DH 
+0 Dont TVA  18.45 DH
+0 ESPECES 247
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:6700 P:737 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

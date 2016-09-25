@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Rabat Agdal
+0 Route de Rabat Agdal lotissement badiaa 
+0 Rabat
+2 2008-10-20 N° ticket: 0299
+2 TIME: 10:10:55
+1 Cherry Pie Filling 0% 12.41
+1 lentils 10% 86.93
+3 10 X 56.17
+1 Wholegrain Mustard 2% 561.7
+1 Wafers alla Nocciola 5% 62.07
+1 Wafers alla Vaniglia 10% 29.15
+1 Horseradish Cheddar 15% 37.1
+1 Thick wholemeal 15% 113.53
+3 7 X 42.21
+1 Cilantro salsa mild 2% 295.47
+1 Salsa Verde 5% 67.93
+0 TOTAL 1 266.29 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 266.33 DH 
+0 Dont TVA  38.32 DH
+0 ESPECES 1316
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:8300 P:913 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

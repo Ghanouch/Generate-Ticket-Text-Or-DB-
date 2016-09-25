@@ -1,0 +1,14 @@
+1 (9)0078742371085 Cherry Pie Filling 12.41
+1 (5)0078742371375 lentils
+3 9 x 86.93 782.37
+0 cherry-pie-filling 794.78
+1 (9)0012000018817 Pepsi Max 82.43
+0 diet-colas 82.43
+1 (6)0072807000057 Haricots blancs 11.67
+0 pancakes 11.67
+1 (8)0039000081047 Corned Beef 91.9
+0 corned-beef 91.9
+1 (2)0031215611170 Tasty Tartar Sauce 36.91
+0 tartar-sauce 36.91
+1 (4)0012860511317 Semolina 3.21
+0 semolina 3.21

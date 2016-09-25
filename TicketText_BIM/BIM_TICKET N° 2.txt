@@ -1,0 +1,16 @@
+0 BIM STORES 
+0 Magasin Maârif
+0 Route de Maârif lotissement badiaa 
+0 Casablanca
+2 2015-06-06 N° ticket: 0002
+2 TIME: 16:06:14
+1 Guava 8% 35.56
+1 Mango 20% 60.5
+3 6 X 97.63
+1 A&W Rootbeer 13% 585.78
+1 Scottish shortbread 8% 52.82
+1 Beef broth 20% 39.64
+1 Rigatoni  10% 107.57
+1 4 all butter muffins 2% 15.41
+1 Sicilian Lemon Curd 8% 56.21
+1 Semolina 8% 3.21

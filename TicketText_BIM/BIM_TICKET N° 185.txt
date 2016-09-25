@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Hay Hassani
+0 Route de Hay Hassani lotissement badiaa 
+0 Casablanca
+2 2009-06-26 N° ticket: 0185
+2 TIME: 19:06:54
+3 4 X 85.6
+1 Dark Chocolate Mints 8% 342.4
+1 Medium Cheddar 8% 63.04
+3 7 X 98.69
+1 mr noodle 15% 690.83
+1 Cashews 10% 108.63
+1 Cream of Coconut 20% 84.08
+0 TOTAL 1 288.98 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 289.02 DH 
+0 Dont TVA  47.77 DH
+0 ESPECES 1338
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:9800 P:1078 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

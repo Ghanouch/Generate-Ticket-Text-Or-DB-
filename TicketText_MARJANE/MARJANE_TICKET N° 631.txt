@@ -1,0 +1,13 @@
+1 (9)0078742371085 Cherry Pie Filling
+3 8 x 12.41 99.28
+1 (5)0078742371375 lentils 86.93
+0 cherry-pie-filling 186.21
+1 (8)0067018025746 sultanas 90.95
+0 sultanas 90.95
+1 (8)0033383655857 Grape Tomatoes
+3 4 x 75.72 302.88
+0 grape-tomatoes 302.88
+1 (9)0051500000489 hot fudge topping 94.65
+0 hot-fudge-topping 94.65
+1 (4)0085206727552 Sicilian Lemon Curd 56.21
+0 creme-de-citron 56.21

@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Fquih ben Salah
+0 Route de Fquih ben Salah lotissement badiaa 
+0 Fquih ben Salah
+2 2014-12-11 N° ticket: 0163
+2 TIME: 13:12:57
+1 Bonbon Vichy 0% 90.3
+1 Sour Fruit Gummies 13% 37.56
+1 Jelly Fish 20% 32.4
+1 Cashews 10% 108.63
+1 Rice flakes sheet 8% 101.71
+0 TOTAL 370.6 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  370.64 DH 
+0 Dont TVA  27.13 DH
+0 ESPECES 420
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:1800 P:198 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

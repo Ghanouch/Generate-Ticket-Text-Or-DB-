@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Ain Borja
+0 Route de Ain Borja lotissement badiaa 
+0 Casablanca
+2 2009-04-13 N° ticket: 0134
+2 TIME: 20:04:45
+1 Palm Sugar 5% 57.71
+3 9 X 80.03
+1 Carbonara 8% 720.27
+1 Corn meal 5% 71.28
+1 Spam 50% Less Sodium 1% 7.61
+1 vegetarian bean 15% 51.01
+1 Peanut butter bliss 15% 6.99
+0 TOTAL 914.87 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  914.91 DH 
+0 Dont TVA  19.71 DH
+0 ESPECES 964
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:4800 P:528 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

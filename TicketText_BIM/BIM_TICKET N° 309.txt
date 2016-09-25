@@ -1,0 +1,12 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2015-08-18 N° ticket: 0309
+2 TIME: 18:08:34
+1 Carbonara 8% 80.03
+1 Organic Chia Seed 1% 40.44
+1 Raspberry preserve 15% 69.48
+1 Rose Water 13% 112.93
+1 Oyster sauce 20% 96.54
+1 Dill sauce 15% 6.43

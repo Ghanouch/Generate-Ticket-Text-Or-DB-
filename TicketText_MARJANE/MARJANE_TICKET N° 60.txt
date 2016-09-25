@@ -1,0 +1,22 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Founty 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-04-30 18:04:49 60 72 6000
+1 (2)0014683003708 100 % Maple syrup 53.56
+0 sweeteners 53.56
+1 (7)0099482428495 Organic popcorn
+3 2 x 54.35 108.7
+0 microwave-popcorn 108.7
+1 (2)0080960315235 Chicken Korma 78.05
+0 poulet-korma 78.05
+1 (9)0070177182168 earl grey 53.7
+0 earl-grey 53.7
+1 (4)0072368136028 Olive Bruschetta 25.11
+0 bruschetta 25.11
+1 (5)0070100002143 Ragoût de bœuf 109.05
+0 ragout-de-boeuf 109.05
+1 (8)0070845647165 Pear Cider 67.48
+1 (6)0070847003205 Peace Tea 104.79
+0 pear-cider 172.27

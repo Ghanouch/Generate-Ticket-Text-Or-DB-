@@ -1,0 +1,31 @@
+0 BIM STORES 
+0 Magasin El Fida
+0 Route de El Fida lotissement badiaa 
+0 Casablanca
+2 2008-12-28 N° ticket: 0327
+2 TIME: 16:12:10
+1 Garden peas 13% 36.22
+1 fine beans 5% 92.95
+1 A&W Rootbeer 13% 97.63
+1 Thé vert Nature 8% 70.72
+1 Earl grey tea  5% 51.71
+3 9 X 53.97
+1 JAVA CURRY SAUCE MIX 0% 485.73
+1 Vinaigre basalmic 10% 62.06
+1 Crème Caramel Flan 10% 4.17
+3 7 X 37.93
+1 Empress grey teabags 15% 265.51
+3 5 X 56.21
+1 Sicilian Lemon Curd 8% 281.05
+0 TOTAL 1 447.75 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 447.79 DH 
+0 Dont TVA  42.66 DH
+0 ESPECES 1497
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:8100 P:891 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

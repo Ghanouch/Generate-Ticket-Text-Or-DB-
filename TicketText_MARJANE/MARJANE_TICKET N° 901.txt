@@ -1,0 +1,10 @@
+1 (5)0018627740001 Go Lean Cereals 6.25
+0 cereales 6.25
+1 (5)0072251020069 Quinoa Blend
+3 4 x 52.12 208.48
+0 quinoa-and-rice 208.48
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71
+1 (2)0031215611170 Tasty Tartar Sauce
+3 6 x 36.91 221.46
+0 tartar-sauce 221.46

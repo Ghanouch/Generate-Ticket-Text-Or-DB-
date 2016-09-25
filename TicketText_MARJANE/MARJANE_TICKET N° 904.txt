@@ -1,0 +1,16 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Rabat Center
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-08-26 18:08:07 39 51 3900
+1 (9)0077377002166 JAVA CURRY SAUCE MIX 53.97
+0 sauce-curry 53.97
+1 (4)0072368136028 Olive Bruschetta 25.11
+0 bruschetta 25.11
+1 (5)0070100002143 Ragoût de bœuf 109.05
+0 ragout-de-boeuf 109.05
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71
+1 (2)0104343353757 babycorn 54.2
+0 babycorn 54.2

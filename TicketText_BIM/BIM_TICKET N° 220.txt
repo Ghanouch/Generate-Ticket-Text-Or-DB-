@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Khémisset
+0 Route de Khémisset lotissement badiaa 
+0 Khémisset
+2 2014-08-19 N° ticket: 0220
+2 TIME: 17:08:26
+1 Flour Tortillas 13% 60.03
+3 8 X 82.61
+1 Bourbon Biscuits 5% 660.88
+1 mr noodle 15% 98.69
+0 TOTAL 819.6 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  819.64 DH 
+0 Dont TVA  23.71 DH
+0 ESPECES 869
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:5200 P:572 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

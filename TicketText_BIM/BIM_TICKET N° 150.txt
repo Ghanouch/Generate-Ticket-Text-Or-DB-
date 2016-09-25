@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Mediouna
+0 Route de Mediouna lotissement badiaa 
+0 Mediouna
+2 2010-06-23 N° ticket: 0150
+2 TIME: 14:06:38
+1 Quinoa Blend 10% 52.12
+1 chocolate fudge 10% 22.18
+1 Pear Cider 13% 67.48
+1 Peace Tea 15% 104.79
+1 4 all butter muffins 2% 15.41
+0 TOTAL 261.98 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  262.02 DH 
+0 Dont TVA  28.49 DH
+0 ESPECES 311
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:6600 P:726 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

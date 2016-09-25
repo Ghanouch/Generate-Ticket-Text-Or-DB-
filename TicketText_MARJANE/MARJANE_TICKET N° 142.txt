@@ -1,0 +1,16 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Medina Mall 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-06-02 16:06:42 88 100 8800
+1 (5)0081954132617 Salad cream 84.08
+0 salad-sauce 84.08
+1 (2)0068303687338 2 salmon fillets 9.47
+1 (3)0068400000204 Lipton soup 88.79
+0 salmon-fillets 98.26
+1 (9)0011152027869 Botan Rice Candy
+3 9 x 50.32 452.88
+0 rice-candy 452.88
+1 (8)0049309132630 Cornichoner 94.28
+0 attiksgurka 94.28

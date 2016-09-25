@@ -1,0 +1,15 @@
+1 (2)0057459625179 Saussice amore 27.49
+0  27.49
+1 (2)0059527305983 True To Nature 58.56
+0 snack-bar 58.56
+1 (2)0073836146288 Wholegrain Mustard 56.17
+0 wholegrain-mustard 56.17
+1 (4)0055742586398 Medium Cheddar 63.04
+0 medium-cheddar 63.04
+1 (5)0041607804776 2 plaice fillets 
+3 PRIX PROMOTION  66.72
+1 (3)0041653012200 Raisin Bran
+3 6 x 70.43 422.58
+0 plaice 489.3
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71

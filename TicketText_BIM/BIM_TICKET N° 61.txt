@@ -1,0 +1,4 @@
+3 8 X 31.8
+1 Wheat Sandwich Bread 5% 254.4
+3 9 X 82.61
+1 Bourbon Biscuits 5% 743.49

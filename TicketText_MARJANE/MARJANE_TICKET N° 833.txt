@@ -1,0 +1,14 @@
+1 (8)0035846020872 Garden peas 36.22
+1 (3)0035898984640 fine beans 92.95
+0 garden-peas 129.17
+1 (4)0012000024535 Citrus Green Tea
+3 2 x 99.46 198.92
+0 tea-drinks 198.92
+1 (5)0051500000229 chocolate fudge 22.18
+0 chocolate-fudge 22.18
+1 (5)0073490125126 Vinaigre basalmic 62.06
+1 (5)0073491024015 Crème Caramel Flan
+3 4 x 4.17 16.68
+1 (6)0073534688833 Empress grey teabags
+3 3 x 37.93 113.79
+0 vinegars 192.53

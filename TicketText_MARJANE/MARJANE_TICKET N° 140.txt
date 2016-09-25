@@ -1,0 +1,13 @@
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (8)0078000052404 A&W Rootbeer 97.63
+0 root-beer 97.63
+1 (4)0099496527387 Dark Chocolate Mints 85.6
+0 chocolate-mints 85.6
+1 (8)0033383655857 Grape Tomatoes 75.72
+0 grape-tomatoes 75.72
+1 (6)0021130506279 Mini penne 61.06
+1 (2)0021130512652 Balsamic garlic 53.95
+0 penne 115.01
+1 (7)0017421387183 cut mixed peel 118.08
+0 peels 118.08

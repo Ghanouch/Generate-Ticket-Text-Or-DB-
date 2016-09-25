@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Sidi Rahal Chatai
+0 Route de Sidi Rahal Chatai lotissement badiaa 
+0 Berrechid
+2 2009-01-31 N° ticket: 0289
+2 TIME: 13:01:15
+1 Saure Sahne 10% Fett 20% 3.73
+3 8 X 14.72
+1 Tacos tout plat 15% 117.76
+3 5 X 84.08
+1 Cream of Coconut 20% 420.4
+1 Organic White Quinoa 2% 65.89
+1 Green food color 15% 85.23
+1 Red food color 10% 40.97
+0 TOTAL 733.98 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  734.02 DH 
+0 Dont TVA  32.69 DH
+0 ESPECES 783
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:1500 P:165 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

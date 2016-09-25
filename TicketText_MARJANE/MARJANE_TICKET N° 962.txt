@@ -1,0 +1,26 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Madina 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-10-23 11:10:49 83 95 8300
+1 (6)0017000006574 Tomates bio
+3 3 x 30.68 92.04
+1 (2)0027400265051 Country Crock
+3 9 x 18.84 169.56
+0 spreads 261.6
+1 (6)0073007007303 Italian Dry Salame
+3 3 x 55.72 167.16
+0 hot-fudge 167.16
+1 (8)0028400071321 Simply Ruffles 98.28
+1 (5)0000548708612 Sea Salt Potato Chips 106.51
+1 (5)0000666656682 Sea Salt Potato Chips 23.3
+1 (5)0000765847165 Sea Salt Potato Chips 98.54
+0 chips-and-fries 326.63
+1 (8)0030370502578 Simply M&S  oatcakes 
+3 PRIX PROMOTION  16.67
+0 oatcakes 16.67
+1 (7)0099482404819 Organic peanut sauce 97.98
+0 peanut-sauce 97.98
+1 (2)0052296088390 4 all butter muffins 15.41
+0 muffins 15.41

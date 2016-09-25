@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Hay Hassani
+0 Route de Hay Hassani lotissement badiaa 
+0 Casablanca
+2 2013-12-03 N° ticket: 0066
+2 TIME: 11:12:23
+3 6 X 57.4
+1 Veggies Kale Blazer 13% 344.4
+1 Green Machine 2% 50.57
+1 Guacachip 15% 66.37
+0 TOTAL 461.34 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  461.38 DH 
+0 Dont TVA  16.25 DH
+0 ESPECES 511
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:9400 P:1034 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

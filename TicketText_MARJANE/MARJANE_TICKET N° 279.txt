@@ -1,0 +1,11 @@
+1 (9)0080989489394 Hot Beef Curry
+3 8 x 15.27 122.16
+0 hot-beef-curry 122.16
+1 (9)0070177182168 earl grey 53.7
+0 earl-grey 53.7
+1 (2)0036192105162 Fruit Spread 18.86
+0 fruit-spreads 18.86
+1 (5)0070100002143 Ragoût de bœuf 109.05
+0 ragout-de-boeuf 109.05
+1 (5)0103942937424 Stringless beans 47.99
+0 stringless-beans 47.99

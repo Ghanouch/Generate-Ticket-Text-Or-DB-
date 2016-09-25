@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2008-04-21 N° ticket: 0256
+2 TIME: 14:04:55
+1 Carbonara 8% 80.03
+3 4 X 71.28
+1 Corn meal 5% 285.12
+1 Italian Dry Salame 15% 55.72
+1 babycorn 2% 54.2
+0 TOTAL 475.07 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  475.11 DH 
+0 Dont TVA  17.65 DH
+0 ESPECES 525
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:9900 P:1089 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

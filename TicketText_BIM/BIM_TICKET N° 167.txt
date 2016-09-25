@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Casa
+0 Route de Casa lotissement badiaa 
+0 Casablanca
+2 2014-12-21 N° ticket: 0167
+2 TIME: 17:12:19
+1 Guava 8% 35.56
+3 3 X 60.5
+1 Mango 20% 181.5
+3 6 X 45.79
+1 Mini Cups 20% 274.74
+1 Nutella 20% 62.95
+1 Ikea Lachs 15% 95.54
+3 3 X 9.47
+1 2 salmon fillets 2% 28.41
+1 Lipton soup 5% 88.79
+1 Tomato Alfredo 8% 82.94
+1 Royal chocolaté 8% 33.38
+0 TOTAL 883.81 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  883.85 DH 
+0 Dont TVA  56.33 DH
+0 ESPECES 933
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:2200 P:242 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

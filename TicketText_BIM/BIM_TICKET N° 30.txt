@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Tifelt
+0 Route de Tifelt lotissement badiaa 
+0 Tifelt
+2 2014-10-15 N° ticket: 0030
+2 TIME: 08:10:01
+1 2 plaice fillets 10% 67.72
+3 3 X 70.43
+1 Raisin Bran 5% 211.29
+1 Wafers alla Nocciola 5% 62.07
+1 Wafers alla Vaniglia 10% 29.15
+3 7 X 66.11
+1 Pinot noir 1% 462.77
+3 3 X 67.48
+1 Pear Cider 13% 202.44
+1 Peace Tea 15% 104.79
+1 Underwood 8% 41.43
+1 Tasty Tartar Sauce 2% 36.91
+0 TOTAL 1 218.57 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 218.61 DH 
+0 Dont TVA  40.99 DH
+0 ESPECES 1268
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:5500 P:605 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

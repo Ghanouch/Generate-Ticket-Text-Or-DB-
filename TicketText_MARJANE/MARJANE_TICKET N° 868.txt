@@ -1,0 +1,10 @@
+1 (4)0017082873828 Original Beef Stick 
+3 PRIX PROMOTION  98.75
+0 beef-jerky 98.75
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (6)0000000024600 Filet de bœuf 109.28
+1 (6)0000000036252 Lion Peanut x2 55.49
+0 filet-de-boeuf 164.77
+1 (4)0025317686006 Turkey breast 96.06
+0 genoa-salami 96.06

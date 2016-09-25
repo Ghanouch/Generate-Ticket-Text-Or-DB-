@@ -1,0 +1,7 @@
+1 (4)0047469042912 Carb Intercept
+3 6 x 65.1 390.6
+1 (7)0047469058890 Vitamin D3 91.73
+1 (4)0070077001064 Shrimp fried rice 38.59
+0 dietary-supplements 520.92
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33

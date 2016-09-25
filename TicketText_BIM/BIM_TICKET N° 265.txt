@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2007-10-29 N° ticket: 0265
+2 TIME: 11:10:43
+3 2 X 19.09
+1 Venison Leg/Steaks 15% 38.18
+1 American Ginseng Tea 2% 84.89
+1 Heavy whipping cream 2% 59.2
+1 hot fudge topping 0% 94.65
+1 Cilantro salsa mild 2% 42.21
+3 8 X 67.93
+1 Salsa Verde 5% 543.44
+1 Salsa Casera Mild 10% 83.35
+0 TOTAL 945.92 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  945.96 DH 
+0 Dont TVA  16.95 DH
+0 ESPECES 995
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:9300 P:1023 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

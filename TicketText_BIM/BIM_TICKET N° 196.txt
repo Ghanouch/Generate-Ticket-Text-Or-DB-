@@ -1,0 +1,18 @@
+0 BIM STORES 
+0 Magasin Khémisset
+0 Route de Khémisset lotissement badiaa 
+0 Khémisset
+2 2003-03-02 N° ticket: 0196
+2 TIME: 09:03:07
+3 7 X 96.76
+1 Kosher Dills 5% 677.32
+3 5 X 62.87
+1 Cornichons 20% 314.35
+3 6 X 61.19
+1 Moutarde de Dijon 5% 367.14
+1 Coffee-mate 10% 49.25
+1 Sliced sharp cheddar 10% 36.42
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+3 7 X 96.54
+1 Oyster sauce 20% 675.78

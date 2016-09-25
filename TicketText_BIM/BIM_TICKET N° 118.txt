@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Bouznika
+0 Route de Bouznika lotissement badiaa 
+0 Benslimane
+2 2015-08-24 N° ticket: 0118
+2 TIME: 11:08:54
+1 Pure Honey 0% 59.65
+1 Bonbon Vichy 0% 90.3
+1 Sour Fruit Gummies 13% 37.56
+1 Jelly Fish 20% 32.4
+1 Color bombe 1% 12.07
+1 30 Panach' Fruits 1% 15.92
+1 Strawberry topping 0% 99.74
+0 TOTAL 347.64 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  347.68 DH 
+0 Dont TVA  10 DH
+0 ESPECES 397
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:5300 P:583 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

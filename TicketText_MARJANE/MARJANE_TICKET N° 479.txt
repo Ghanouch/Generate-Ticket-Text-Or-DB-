@@ -1,0 +1,20 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Ménara 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2016-02-13 09:02:01 53 65 5300
+1 (6)0017000006574 Tomates bio 30.68
+1 (2)0027400265051 Country Crock 18.84
+1 (7)0033776011703 Earth balance 58.94
+1 (5)0033776011895 Buttery spread  44.19
+1 (8)0034500195003 Whipped butter 6.26
+1 (7)0034800004005 Kipper Snacks  90.72
+0 spreads 249.63
+1 (5)0072251020069 Quinoa Blend 52.12
+0 quinoa-and-rice 52.12
+1 (4)0016229901141 Coconut Juice 73.77
+1 (3)0016229901226 lychee drink 7.55
+0 canned-foods 81.32
+1 (3)0089782030191 Wheat Sandwich Bread 31.8
+0 sandwichs 31.8

@@ -1,0 +1,18 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Hay Riad 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-05-30 18:05:34 63 75 6300
+1 (2)0000007020254 lentilles vertes  42.94
+0 root-bier 42.94
+1 (4)0063618612550 Italian gnocchi 69.08
+0 gnocchi 69.08
+1 (6)0021130506279 Mini penne 
+3 PRIX PROMOTION  60.06
+1 (2)0021130512652 Balsamic garlic 53.95
+0 penne 234.13
+1 (5)0070100002143 Ragoût de bœuf 109.05
+0 ragout-de-boeuf 109.05
+1 (6)0078907470370 Guacachip 66.37
+0 tortilla-chips 66.37

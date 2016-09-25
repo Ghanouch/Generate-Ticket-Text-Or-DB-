@@ -1,0 +1,19 @@
+0 BIM STORES 
+0 Magasin Mediouna
+0 Route de Mediouna lotissement badiaa 
+0 Mediouna
+2 2012-06-05 N° ticket: 0048
+2 TIME: 14:06:46
+1 pringles 13% 60.01
+1 pringles origional 8% 92.06
+1 led 5% 88.04
+1 mini chocolate logs 2% 51.73
+1 Organic Blue Agave 8% 6.96
+1 Agave 15% 45.93
+1 Organic Sugar  2% 79.85
+1 Botan Rice Candy 0% 50.32
+1 Ragoût de bœuf 10% 109.05
+1 Guacachip 15% 66.37
+1 Reduced fat milk 20% 73.72
+1 Chicken Chow Mein 1% 12.04
+1 Fibre menu bleu 20% 83.2

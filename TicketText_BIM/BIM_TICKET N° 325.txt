@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Berrechid
+0 Route de Berrechid lotissement badiaa 
+0 Berrechid
+2 2006-02-26 N° ticket: 0325
+2 TIME: 09:02:23
+1 Fruit Spread 2% 18.86
+1 Stringless beans 10% 47.99
+3 7 X 1.41
+1 Sauce aux piments 5% 9.87
+0 TOTAL 76.72 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  76.76 DH 
+0 Dont TVA  4.8 DH
+0 ESPECES 126
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:7000 P:770 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

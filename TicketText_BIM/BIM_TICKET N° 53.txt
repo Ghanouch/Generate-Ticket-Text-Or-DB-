@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Azemmour
+0 Route de Azemmour lotissement badiaa 
+0 El Jadida
+2 2014-06-24 N° ticket: 0053
+2 TIME: 08:06:41
+1 Tropicana Cranberry 0% 79.13
+1 Jus d'orange 1% 10.51
+3 3 X 42.94
+1 lentilles vertes  2% 128.82
+1 Very vanilla Soymilk 15% 48.47
+1 Tomato ketchup 8% 100.26
+1 Organic Ketchup 8% 18.38
+1 Lait au chocolat 15% 89.15
+0 TOTAL 474.72 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  474.76 DH 
+0 Dont TVA  27.68 DH
+0 ESPECES 524
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:7500 P:825 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

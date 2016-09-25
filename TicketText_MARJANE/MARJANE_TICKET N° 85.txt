@@ -1,0 +1,6 @@
+1 (4)0055220082060 Carbonara
+3 4 x 80.03 320.12
+1 (3)0055270846438 Corn meal 71.28
+0 whole-bean-coffee 391.4
+1 (5)0015778037830 Lemongrass Paste 107.72
+0 lemongrass-paste 107.72

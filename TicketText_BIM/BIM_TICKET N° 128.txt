@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin El Jadida
+0 Route de El Jadida lotissement badiaa 
+0 El Jadida
+2 2012-03-02 N° ticket: 0128
+2 TIME: 15:03:29
+1 Saussice amore 2% 27.49
+1 7Up 2% 95.21
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+1 7Up 2% 74.8
+1 Honey Soy Drink 1% 66.5
+1 Wheat Sandwich Bread 5% 31.8
+1 prunes 13% 89.13
+0 TOTAL 494.11 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  494.15 DH 
+0 Dont TVA  19.93 DH
+0 ESPECES 544
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:6900 P:759 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

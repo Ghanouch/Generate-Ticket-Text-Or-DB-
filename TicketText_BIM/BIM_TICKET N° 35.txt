@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Bouznika
+0 Route de Bouznika lotissement badiaa 
+0 Benslimane
+2 2002-10-14 N° ticket: 0035
+2 TIME: 13:10:38
+1 Go Lean Cereals 10% 6.25
+1 Pepsi Max 0% 82.43
+1 Cottage Cheese 15% 4.01
+1 Tropik splash 2% 3.16
+1 Blue Bonnet 2% 82.35
+1 Coffee creamer 13% 4.5
+1 Tasty Tartar Sauce 2% 36.91
+1 Chicken Chow Mein 1% 12.04
+3 8 X 83.2
+1 Fibre menu bleu 20% 665.6
+1 Whole Wheat Wraps 8% 12.2
+0 TOTAL 909.45 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  909.49 DH 
+0 Dont TVA  18.9 DH
+0 ESPECES 959
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:6700 P:737 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

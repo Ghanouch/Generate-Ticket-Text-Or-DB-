@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Rabat
+0 Route de Rabat lotissement badiaa 
+0 Rabat
+2 2002-06-29 N° ticket: 0211
+2 TIME: 14:06:27
+1 Saure Sahne 10% Fett 20% 3.73
+3 9 X 14.72
+1 Tacos tout plat 15% 132.48
+3 9 X 61.31
+1 Chair à saucisse 2% 551.79
+3 5 X 83.78
+1 Honey roast ham 15% 418.9
+1 Chair à saucisse 2% 43.75
+1 Applesauce Natural 5% 68.31
+1 Cooked Ham 2% 22.2
+1 Italian Dry Salami 10% 82.85
+1 Beef Bologna 10% 21.76
+1 2 plaice fillets 10% 67.72
+1 Raisin Bran 5% 70.43
+1 Manuka honey 0% 29.73
+1 Tasty Tartar Sauce 2% 36.91
+3 4 X 6.99
+1 Peanut butter bliss 15% 27.96

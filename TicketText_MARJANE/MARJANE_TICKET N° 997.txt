@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Hay Riad 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2013-10-17 17:10:28 3 15 300
+1 (3)0073469305016 Sen-cha 84.86
+0 hawaiian-sweet-rolls 84.86
+1 (9)0011152027869 Botan Rice Candy 50.32
+0 rice-candy 50.32
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71
+1 (3)0073007106730 Prosciutto 66.6
+0 prosciutto 66.6

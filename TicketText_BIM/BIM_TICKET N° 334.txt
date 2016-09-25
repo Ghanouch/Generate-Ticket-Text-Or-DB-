@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Bouskoura
+0 Route de Bouskoura lotissement badiaa 
+0 Casablanca
+2 2008-12-02 N° ticket: 0334
+2 TIME: 14:12:06
+1 Zumo de Piña 20% 109.01
+3 5 X 16.69
+1 Zumo de Piña 20% 83.45
+1 Very vanilla Soymilk 15% 48.47
+1 Cornichoner 13% 94.28
+1 Pretzel Crisps 15% 99.35
+0 TOTAL 434.56 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  434.6 DH 
+0 Dont TVA  51.08 DH
+0 ESPECES 484
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:7700 P:847 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

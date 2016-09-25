@@ -1,0 +1,11 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2014-12-02 N° ticket: 0025
+2 TIME: 10:12:10
+1 pringles 13% 60.01
+1 pringles origional 8% 92.06
+1 Original Salsitas 13% 85.91
+1 Sauce de Poisson 2% 6.31
+1 FLAPJACK Mini Bites 13% 48.73

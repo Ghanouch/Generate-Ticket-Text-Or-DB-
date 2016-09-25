@@ -1,0 +1,19 @@
+1 (2)0014683003708 100 % Maple syrup 53.56
+1 (4)0018030696400 British Icing Sugar 17.82
+1 (6)0018894834106 Original Syrup 85.55
+1 (6)0021248102196 Cinnamon sugar 12.34
+1 (3)0030576780778 Pure maple syrup 53.4
+1 (2)0036426300431 guava nectar 78.13
+1 (2)0039059430858 Maple Syrup
+3 5 x 35.03 175.15
+0 sweeteners 475.95
+1 (4)0070177138639 Thé vert Nature 70.72
+1 (3)0070177154226 Earl grey tea  51.71
+0 the-vert-nature 122.43
+1 (8)0014922833828 Amandino blanches 86.12
+0 steak-pie 86.12
+1 (8)0033383655857 Grape Tomatoes 
+3 PRIX PROMOTION  74.72
+0 grape-tomatoes 74.72
+1 (8)0025638890021 Rose Water 112.93
+0 rose-water 112.93

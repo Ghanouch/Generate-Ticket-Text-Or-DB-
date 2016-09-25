@@ -1,0 +1,13 @@
+1 (7)0000020364373 Zumo de Piña 109.01
+1 (7)0000020364373 Zumo de Piña 16.69
+0 chicken-feet 125.7
+1 (5)0015778037830 Lemongrass Paste 107.72
+0 lemongrass-paste 107.72
+1 (3)0027000500064 Fusilli 96.82
+0 popping-corn 96.82
+1 (6)0072807000057 Haricots blancs
+3 4 x 11.67 46.68
+0 pancakes 46.68
+1 (9)0051500000267 Strawberry topping
+3 4 x 99.74 398.96
+0 strawberry-topping 398.96

@@ -1,0 +1,12 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Sidi Othman 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-08-25 14:08:48 39 51 3900
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (8)0033383655857 Grape Tomatoes 75.72
+0 grape-tomatoes 75.72
+1 (7)0074865756648 Reduced fat milk 73.72
+0 reduced-fat-milk 73.72

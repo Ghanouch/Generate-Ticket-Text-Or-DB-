@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Sidi Moumen
+0 Route de Sidi Moumen lotissement badiaa 
+0 Casablanca
+2 2002-06-30 N° ticket: 0149
+2 TIME: 12:06:12
+1 Chicken Korma 2% 78.05
+3 5 X 86.47
+1 Irish pancakes 13% 432.35
+1 vegetarian bean 15% 51.01
+0 TOTAL 561.41 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  561.45 DH 
+0 Dont TVA  18.13 DH
+0 ESPECES 611
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:2000 P:220 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

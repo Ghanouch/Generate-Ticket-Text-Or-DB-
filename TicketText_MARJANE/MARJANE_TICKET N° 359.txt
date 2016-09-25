@@ -1,0 +1,19 @@
+1 (8)0014922833828 Amandino blanches 86.12
+0 steak-pie 86.12
+1 (7)0024000323204 Beef broth 39.64
+1 (5)0024094070244 Rigatoni  107.57
+0 beef-broth 147.21
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71
+1 (5)0032843333137 Breakfast blend
+3 4 x 109.26 437.04
+1 (9)0033200197140 Ultra Max 78.35
+0 frozen-foods 515.39
+1 (4)0012142117713 Tomato ketchup 100.26
+1 (4)0055860064432 Organic Ketchup 18.38
+1 (6)0055872105186 Lait au chocolat 89.15
+1 (6)0055900001084 Linguine 18.23
+1 (6)0055900007321 Ordi 88.83
+1 (2)0056119001162 Parmesan 101.58
+1 (6)0056183447463 Thé vert menthe 43.69
+0 tomato-ketchup 460.12

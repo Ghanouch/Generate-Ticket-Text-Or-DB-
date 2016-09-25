@@ -1,0 +1,13 @@
+1 (9)0048500008386 Tropicana Cranberry 79.13
+1 (1)0048500018347 Jus d'orange 10.51
+0 juice-beverage 89.64
+1 (1)0054256286240 Organic Chia Seed 40.44
+0 chia-seed 40.44
+1 (4)0034287247791 tuna steak 72.05
+0 tuna-steak 72.05
+1 (4)0025317686006 Turkey breast 96.06
+0 genoa-salami 96.06
+1 (2)0036192105162 Fruit Spread 18.86
+0 fruit-spreads 18.86
+1 (2)0031215611170 Tasty Tartar Sauce 36.91
+0 tartar-sauce 36.91

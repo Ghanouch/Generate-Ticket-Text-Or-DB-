@@ -1,0 +1,19 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Ouarzazate
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-06-29 17:06:20 45 57 4500
+1 (4)0013337132631 jamon de teruel dop 6.91
+1 (4)0013364711411 mortadella 65.44
+0 seafood 72.35
+1 (1)0054256286240 Organic Chia Seed 40.44
+0 chia-seed 40.44
+1 (8)0030370502578 Simply M&S  oatcakes 17.67
+0 oatcakes 17.67
+1 (8)0010786091585 Chips de légumes 28.67
+1 (2)0011632975144 Breast fillets 
+3 PRIX PROMOTION  21.03
+1 (4)0013562777778 Organic Mac
+3 7 x 78.73 551.11
+0 salty-snacks 600.81

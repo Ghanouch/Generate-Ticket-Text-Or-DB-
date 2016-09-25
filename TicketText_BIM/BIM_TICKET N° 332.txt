@@ -1,0 +1,12 @@
+3 9 X 53.56
+1 100 % Maple syrup 2% 482.04
+1 British Icing Sugar 8% 17.82
+1 Original Syrup 15% 85.55
+1 Cinnamon sugar 15% 12.34
+1 tuna steak 8% 72.05
+1 Sauce de Poisson 2% 6.31
+1 Kirsch 15% 109.34
+1 Pumpkin Seed Pecan 20% 70.54
+1 Instant Dry Yeast 10% 93.95
+1 Bayani brew 8% 68.91
+1 Sauce aux piments 5% 1.41

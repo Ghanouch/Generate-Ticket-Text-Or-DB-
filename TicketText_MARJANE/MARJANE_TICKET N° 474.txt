@@ -1,0 +1,44 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Bd Marche Verte
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-04-16 18:04:02 34 46 3400
+1 (4)0013337132631 jamon de teruel dop 6.91
+1 (4)0013364711411 mortadella 65.44
+1 (7)0041234111766 Tartar 104.39
+0 seafood 176.74
+1 (4)0017082873828 Original Beef Stick 99.75
+0 beef-jerky 99.75
+1 (2)0000087177756 7Up 95.21
+1 (7)0000886100252 Pepsi 
+3 PRIX PROMOTION  20.79
+1 (9)0011110831668  pure honey 87.39
+1 (2)0000087177756 7Up 74.8
+1 (1)0011645004315 Honey Soy Drink 66.5
+1 (6)0012000039218 Brisk Iced Tea Lemon
+3 6 x 82.43 494.58
+1 (5)0012000041396 Iced Coffee 91.05
+0 beverages 930.32
+1 (4)0016229901141 Coconut Juice 73.77
+1 (3)0016229901226 lychee drink 7.55
+1 (8)0020100000465 Sardines in Water 16.2
+1 (8)0020176790284 Spoonettes 48.23
+1 (1)0020188050109 creamy smooth 61.95
+1 (4)0051000012913 Bean with Bacon
+3 7 x 66.28 463.96
+1 (6)0051000115515 Cream of Mushroom 90.3
+0 canned-foods 761.96
+1 (1)0000084154071 Salsa de mostaza 
+3 PRIX PROMOTION  22
+1 (9)0000292909757 Flat Leaf Parsley 65.26
+1 (4)0000843347515 Mixed peppers 43.55
+1 (2)0007200000021 Sauce bolognaise 96.27
+1 (1)0000084154071 Salsa de mostaza 74.58
+1 (9)0000292915835 Flat Leaf Parsley 7.81
+1 (4)0000843353253 Mixed peppers 26.86
+0 groceries 336.33
+1 (6)0052100070889 Green food color 85.23
+1 (5)0052100070919 Red food color
+3 5 x 40.97 204.85
+0 food-additives 290.08

@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin El Jadida
+0 Route de El Jadida lotissement badiaa 
+0 El Jadida
+2 2014-12-19 N° ticket: 0291
+2 TIME: 17:12:07
+1 Chair à saucisse 2% 61.31
+1 Honey roast ham 15% 83.78
+1 Chair à saucisse 2% 43.75
+1 JAVA CURRY SAUCE MIX 0% 53.97
+1 chocolate fudge 10% 22.18
+1 Prosciutto 5% 66.6
+0 TOTAL 331.59 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  331.63 DH 
+0 Dont TVA  18.17 DH
+0 ESPECES 381
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:7200 P:792 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

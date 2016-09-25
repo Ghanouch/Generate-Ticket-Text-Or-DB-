@@ -1,0 +1,13 @@
+1 (7)0099482428495 Organic popcorn 54.35
+0 microwave-popcorn 54.35
+1 (5)0070157888646 Crumbled Feta Cheese 66.08
+0 feta-cheese 66.08
+1 (3)0027000500064 Fusilli 96.82
+1 (2)0027259032118 Guers diet tea 43.68
+0 popping-corn 140.5
+1 (5)0040100007295 Instant Dry Yeast
+3 4 x 93.95 375.8
+1 (4)0040232751202 Bayani brew 68.91
+0 instant-dry-yeast 444.71
+1 (2)0031215611170 Tasty Tartar Sauce 36.91
+0 tartar-sauce 36.91

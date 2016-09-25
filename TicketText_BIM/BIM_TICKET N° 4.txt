@@ -1,0 +1,42 @@
+0 BIM STORES 
+0 Magasin Mers Sultan
+0 Route de Mers Sultan lotissement badiaa 
+0 Casablanca
+2 2009-04-17 N° ticket: 0004
+2 TIME: 13:04:55
+1 Bonbon Vichy 0% 90.3
+1 Sour Fruit Gummies 13% 37.56
+1 Jelly Fish 20% 32.4
+1 Color bombe 1% 12.07
+1 30 Panach' Fruits 1% 15.92
+1 Stem Ginger Dunkers 8% 83.64
+1 M&S Chicken Penang 0% 84.43
+3 8 X 79.13
+1 Tropicana Cranberry 0% 633.04
+1 Jus d'orange 1% 10.51
+3 2 X 6.31
+1 Sauce de Poisson 2% 12.62
+3 7 X 40.55
+1 Fat Free Milk 10% 283.85
+1 Cran-Apple 5% 14.26
+1 Cranberry Classic 5% 36.53
+1 Cherry Juice Drink 20% 69.01
+3 3 X 112.73
+1 red pepper powder 13% 338.19
+1 Soft Drink 1% 73.65
+1 CHOCLATE BROWNIE 5% 36.47
+3 6 X 64.69
+1 Canned Pineapple 5% 388.14
+1 Peanut butter bliss 15% 6.99
+0 TOTAL 2 259.58 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 259.62 DH 
+0 Dont TVA  53.45 DH
+0 ESPECES 2309
+0 RENDU 50 
+0 NOMBRE ARTICLES  19
+0 M:7700 P:847 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

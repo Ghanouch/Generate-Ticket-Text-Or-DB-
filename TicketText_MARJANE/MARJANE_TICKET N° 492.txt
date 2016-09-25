@@ -1,0 +1,16 @@
+1 (5)0050000301621 Coffee-mate
+3 5 x 49.25 246.25
+0 coffee-creamer 246.25
+1 (8)0030370502578 Simply M&S  oatcakes 17.67
+0 oatcakes 17.67
+1 (9)0070177182168 earl grey 53.7
+0 earl-grey 53.7
+1 (4)0072368136028 Olive Bruschetta 25.11
+0 bruschetta 25.11
+1 (8)0008666059182 prunes 89.13
+0 vinaigre-balsamique 89.13
+1 (7)0078895147100 Oyster sauce 96.54
+0 asian-sauces 96.54
+1 (2)0031215611170 Tasty Tartar Sauce 
+3 PRIX PROMOTION  35.91
+0 tartar-sauce 35.91

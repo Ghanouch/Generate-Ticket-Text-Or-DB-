@@ -1,0 +1,14 @@
+0 BIM STORES 
+0 Magasin Bouskoura
+0 Route de Bouskoura lotissement badiaa 
+0 Casablanca
+2 2007-08-21 N° ticket: 0228
+2 TIME: 14:08:16
+3 8 X 60.03
+1 Flour Tortillas 13% 480.24
+1 Raspberry preserve 15% 69.48
+3 3 X 59.2
+1 Heavy whipping cream 2% 177.6
+1 Ragoût de bœuf 10% 109.05
+1 Chilli Garlic Sauce 5% 65.21
+1 Sauce aux piments 5% 1.41

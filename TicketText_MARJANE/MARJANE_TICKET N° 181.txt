@@ -1,0 +1,22 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Settat
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-06-07 13:06:30 17 29 1700
+1 (6)0051500026823 Blueberry syrup
+3 5 x 41.78 208.9
+0 blueberry-syrup 208.9
+1 (4)0070177138639 Thé vert Nature 70.72
+1 (3)0070177154226 Earl grey tea  51.71
+0 the-vert-nature 122.43
+1 (7)0099482428495 Organic popcorn 54.35
+0 microwave-popcorn 54.35
+1 (2)0080960315235 Chicken Korma
+3 8 x 78.05 624.4
+0 poulet-korma 624.4
+1 (6)0037466081342 Swiss thin 27.9
+0 chocolats 27.9
+1 (3)0073007106730 Prosciutto
+3 9 x 66.6 599.4
+0 prosciutto 599.4

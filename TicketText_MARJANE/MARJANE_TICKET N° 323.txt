@@ -1,0 +1,9 @@
+1 (2)0093966000283 Heavy whipping cream
+3 4 x 59.2 236.8
+0 whipping-cream 236.8
+1 (4)0063618612550 Italian gnocchi 69.08
+0 gnocchi 69.08
+1 (3)0050000111879 hot cocoa 86.99
+0 hot-cocoa-mix 86.99
+1 (6)0021908459899 Peanut butter bliss 6.99
+0 peanut-butter-bliss 6.99

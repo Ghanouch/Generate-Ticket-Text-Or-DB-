@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Temara
+0 Route de Temara lotissement badiaa 
+0 Temara
+2 2014-10-29 N° ticket: 0190
+2 TIME: 14:10:30
+3 3 X 55.37
+1 Hoisin sauce 10% 166.11
+1 Corn starch 8% 82.85
+1 Clover honey 0% 62.25
+3 8 X 98.69
+1 mr noodle 15% 789.52
+1 Instant Dry Yeast 10% 93.95
+1 Bayani brew 8% 68.91
+1 Pizza Parlanno 2% 71.26
+1 Mac 'n Cheese 1% 10.11
+1 Cheesy Pizza 8% 77.59
+1 Buttermilk Pancake 20% 42.05
+1 slim jim 20% 90.3
+3 6 X 37.24
+1 slim jims 13% 223.44
+1 Chunky veg soup 2% 59.35

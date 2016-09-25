@@ -1,0 +1,18 @@
+1 (8)0038000846373 pringles 60.01
+1 (4)0038000846939 pringles origional 92.06
+0 potato-crips 152.07
+1 (4)0017082873828 Original Beef Stick 99.75
+0 beef-jerky 99.75
+1 (4)0012524702117 Caramel Popcorn
+3 8 x 102.03 816.24
+1 (4)0012546315098 Dentyne fire
+3 8 x 59.56 476.48
+0 caramel-popcorn 1 292.72
+1 (9)0012000018817 Pepsi Max 82.43
+0 diet-colas 82.43
+1 (9)0077377002166 JAVA CURRY SAUCE MIX 53.97
+0 sauce-curry 53.97
+1 (1)0060383738976 Chicken Chow Mein 12.04
+1 (7)0060383756543 Fibre menu bleu 83.2
+1 (4)0060383763046 Whole Wheat Wraps 12.2
+0 chow-mein 107.44

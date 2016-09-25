@@ -1,0 +1,14 @@
+1 (8)0078000052404 A&W Rootbeer 97.63
+0 root-beer 97.63
+1 (2)0021723778885 Sauce de Poisson 6.31
+0 sauces-de-poisson 6.31
+1 (5)0041607804776 2 plaice fillets 67.72
+1 (3)0041653012200 Raisin Bran
+3 9 x 70.43 633.87
+0 plaice 701.59
+1 (3)0011200001407 Sauce aux piments 1.41
+0 sauce-aux-piments 1.41
+1 (8)0056600620742 Reese minis 23.02
+1 (5)0056725138726 Riz basmati 22.53
+1 (2)0056800000207 Yogurt 79.32
+0 jelly-beans 124.87

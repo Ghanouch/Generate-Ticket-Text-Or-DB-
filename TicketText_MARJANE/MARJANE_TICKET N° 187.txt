@@ -1,0 +1,9 @@
+1 (5)0098968816353 Chicken Saaq Masala
+3 5 x 93.54 467.7
+0 fresh-foods 467.7
+1 (7)0041800326006 Grape 60.49
+0 grape-juice-drink 60.49
+1 (2)0002515783254 Pizza Parlanno 71.26
+1 (1)0003655932054 Mac 'n Cheese 10.11
+1 (4)0022664647766 Cheesy Pizza 77.59
+0 meals 158.96

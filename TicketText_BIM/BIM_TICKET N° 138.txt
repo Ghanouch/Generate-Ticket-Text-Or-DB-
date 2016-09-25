@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Sidi Slimane
+0 Route de Sidi Slimane lotissement badiaa 
+0 Sidi Slimane
+2 2009-02-26 N° ticket: 0138
+2 TIME: 20:02:07
+1 Matzos 5% 54.68
+1 prunes 13% 89.13
+1 Chips de légumes 13% 28.67
+1 Breast fillets 2% 22.03
+1 Organic Mac 8% 78.73
+3 9 X 17.87
+1 Truvia 2% 160.83
+1 Cucumbers in Brine 8% 63.08
+1 german smoked cheese 8% 21.18
+0 TOTAL 518.33 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  518.37 DH 
+0 Dont TVA  29.01 DH
+0 ESPECES 568
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:1900 P:209 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

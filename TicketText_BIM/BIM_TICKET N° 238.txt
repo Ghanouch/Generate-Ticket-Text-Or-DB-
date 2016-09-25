@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Roches Noires
+0 Route de Roches Noires lotissement badiaa 
+0 Casablanca
+2 2015-02-11 N° ticket: 0238
+2 TIME: 13:02:00
+3 4 X 12.41
+1 Cherry Pie Filling 0% 49.64
+1 lentils 10% 86.93
+1 Tome fraîche 8% 54.01
+1 Pilons de poulet 15% 34.11
+1 Norwegian Jarlsberg 1% 6.92
+1 Lifeway smoothie 8% 99.4
+1 Salsa de mostaza 1% 23
+1 Flat Leaf Parsley 0% 65.26
+1 Mixed peppers 8% 43.55
+0 TOTAL 462.82 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  462.86 DH 
+0 Dont TVA  27.24 DH
+0 ESPECES 512
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:100 P:11 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

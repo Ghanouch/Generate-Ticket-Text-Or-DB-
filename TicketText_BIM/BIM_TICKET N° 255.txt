@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2014-04-19 N° ticket: 0255
+2 TIME: 09:04:39
+1 Zumo de Piña 20% 109.01
+1 Zumo de Piña 20% 16.69
+1 earl grey 0% 53.7
+1 led 5% 88.04
+1 mini chocolate logs 2% 51.73
+3 8 X 56.21
+1 Sicilian Lemon Curd 8% 449.68

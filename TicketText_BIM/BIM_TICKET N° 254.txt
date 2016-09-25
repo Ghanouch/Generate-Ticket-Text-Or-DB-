@@ -1,0 +1,12 @@
+0 BIM STORES 
+0 Magasin Bouskoura
+0 Route de Bouskoura lotissement badiaa 
+0 Casablanca
+2 2003-12-21 N° ticket: 0254
+2 TIME: 15:12:30
+1 Scottish shortbread 8% 52.82
+3 7 X 12.04
+1 Chicken Chow Mein 1% 84.28
+1 Fibre menu bleu 20% 83.2
+3 5 X 12.2
+1 Whole Wheat Wraps 8% 61

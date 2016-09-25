@@ -1,0 +1,13 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Inezgane 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2010-02-28 17:02:14 2 14 200
+1 (9)0080989489394 Hot Beef Curry 15.27
+0 hot-beef-curry 15.27
+1 (2)0021723778885 Sauce de Poisson
+3 9 x 6.31 56.79
+0 sauces-de-poisson 56.79
+1 (5)0072935053000 Fat Free Milk 40.55
+0 fat-free-milk 40.55

@@ -1,0 +1,11 @@
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (8)0014922833828 Amandino blanches 86.12
+0 steak-pie 86.12
+1 (4)0016229901141 Coconut Juice 73.77
+0 canned-foods 73.77
+1 (4)0016447100951 Premium Ground Bison 10.09
+0 bison 10.09
+1 (6)0021908459899 Peanut butter bliss
+3 8 x 6.99 55.92
+0 peanut-butter-bliss 55.92

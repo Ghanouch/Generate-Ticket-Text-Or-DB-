@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Sidi Kacem
+0 Route de Sidi Kacem lotissement badiaa 
+0 Sidi Kacem
+2 2009-10-06 N° ticket: 0207
+2 TIME: 13:10:56
+1 Organic Chia Seed 1% 40.44
+1 miel 5% 58.15
+3 4 X 86.99
+1 hot cocoa 5% 347.96
+1 Coffeemate hazelnut 10% 102.95
+1 cut mixed peel 20% 118.08
+0 TOTAL 667.58 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  667.62 DH 
+0 Dont TVA  36.35 DH
+0 ESPECES 717
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:2400 P:264 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

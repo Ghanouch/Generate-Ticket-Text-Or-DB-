@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Ain Chock
+0 Route de Ain Chock lotissement badiaa 
+0 Casablanca
+2 2005-04-10 N° ticket: 0129
+2 TIME: 12:04:29
+1 Bird's Eye Chillies 1% 11.63
+1 Red Chillies 13% 63.66
+1 Thai chicken soup 15% 64.77
+1 Finger Chillies 13% 73.43
+1 Palak Paneer 13% 52.56
+1 bird eye chillies 13% 46.04
+1 tikka masala sauce 10% 11.85
+0 TOTAL 323.94 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  323.98 DH 
+0 Dont TVA  36.75 DH
+0 ESPECES 373
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:5700 P:627 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

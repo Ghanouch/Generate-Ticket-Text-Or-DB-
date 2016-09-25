@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Hay Hassani
+0 Route de Hay Hassani lotissement badiaa 
+0 Casablanca
+2 2006-12-10 N° ticket: 0194
+2 TIME: 13:12:02
+1 Crumbled Feta Cheese 10% 66.08
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+1 Pinot noir 1% 66.11
+1 Chicken Laksa 2% 83.16
+0 TOTAL 371.77 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  371.81 DH 
+0 Dont TVA  22.78 DH
+0 ESPECES 421
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:4300 P:473 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,8 @@
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (8)0021000604647 Kraft singles 28.97
+1 (7)0033676533128 Chili beef nachos 0.4
+1 (4)0042200006024 Nudie - Orange Juice 77.4
+1 (7)0042222870009 Turkey Bacon 108.58
+1 (5)0043000204337 Vanilla 20.66
+0 desserts 236.01

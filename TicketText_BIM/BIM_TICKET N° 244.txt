@@ -1,0 +1,37 @@
+0 BIM STORES 
+0 Magasin Fès
+0 Route de Fès lotissement badiaa 
+0 Fes
+2 2003-08-07 N° ticket: 0244
+2 TIME: 17:08:04
+1 Venison Leg/Steaks 15% 19.09
+1 jamon de teruel dop 8% 6.91
+1 mortadella 8% 65.44
+1 Tartar 20% 104.39
+1 Wild Caught Shrimp 8% 53.32
+1 Kippered fillets 2% 84.52
+1 Caramel Popcorn 8% 102.03
+1 Dentyne fire 8% 59.56
+1 Spam 50% Less Sodium 1% 7.61
+1 Mini penne 15% 61.06
+1 Balsamic garlic 2% 53.95
+1 Carb Intercept 8% 65.1
+1 Vitamin D3 20% 91.73
+1 Shrimp fried rice 8% 38.59
+1 Reese minis 13% 23.02
+3 5 X 22.53
+1 Riz basmati 10% 112.65
+1 Yogurt 2% 79.32
+1 Activia  10% 103.85
+0 TOTAL 1 132.14 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 132.18 DH 
+0 Dont TVA  90.58 DH
+0 ESPECES 1182
+0 RENDU 50 
+0 NOMBRE ARTICLES  18
+0 M:4100 P:451 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

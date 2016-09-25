@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Berrechid
+0 Route de Berrechid lotissement badiaa 
+0 Berrechid
+2 2014-12-24 N° ticket: 0125
+2 TIME: 08:12:19
+1 Go Lean Cereals 10% 6.25
+1 Irish pancakes 13% 86.47
+1 Spicy bean sauce 8% 72.21
+3 8 X 50.32
+1 Botan Rice Candy 0% 402.56
+1 Sicilian Lemon Curd 8% 56.21
+1 Green food color 15% 85.23
+3 4 X 40.97
+1 Red food color 10% 163.88
+0 TOTAL 872.81 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  872.85 DH 
+0 Dont TVA  34.87 DH
+0 ESPECES 922
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:8600 P:946 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

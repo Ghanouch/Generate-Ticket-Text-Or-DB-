@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Mediouna
+0 Route de Mediouna lotissement badiaa 
+0 Mediouna
+2 2008-06-07 N° ticket: 0177
+2 TIME: 20:06:43
+1 Pepsi Max 0% 82.43
+1 Carb Intercept 8% 65.1
+1 Vitamin D3 20% 91.73
+1 Shrimp fried rice 8% 38.59
+3 2 X 63.09
+1 Traditional Chex Mix 0% 126.18
+1 Organic White Quinoa 2% 65.89
+1 german smoked cheese 8% 21.18
+0 TOTAL 491.1 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  491.14 DH 
+0 Dont TVA  25.83 DH
+0 ESPECES 541
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:1900 P:209 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

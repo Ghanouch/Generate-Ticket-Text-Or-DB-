@@ -1,0 +1,9 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2003-06-12 N° ticket: 0042
+2 TIME: 20:06:15
+3 10 X 58.92
+1 Orange Blossom Water 13% 589.2
+1 Peanut butter bliss 15% 6.99

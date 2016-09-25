@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Mediouna
+0 Route de Mediouna lotissement badiaa 
+0 Mediouna
+2 2015-02-16 N° ticket: 0178
+2 TIME: 11:02:40
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+1 Ragoût de bœuf 10% 109.05
+3 4 X 32.33
+1 Caramel Dessert 2% 129.32
+0 TOTAL 394.79 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  394.83 DH 
+0 Dont TVA  25.04 DH
+0 ESPECES 444
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:9500 P:1045 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

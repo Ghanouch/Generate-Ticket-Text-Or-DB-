@@ -1,0 +1,15 @@
+1 (9)0000030053014 Bonbon Vichy 90.3
+1 (8)0000790310013 Sour Fruit Gummies 37.56
+1 (7)0000790310020 Jelly Fish
+3 5 x 32.4 162
+0 sugary-snacks 289.86
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice 106.71
+1 (4)0025000056031 100% Orange Juice 47.49
+1 (6)0028000984434 Juicy Juice Apple 16.09
+1 (2)0028396028738 apple juice 58.27
+0 fruit-juices 274.18
+1 (6)0031506948169 Horseradish Cheddar
+3 3 x 37.1 111.3
+1 (6)0031528903820 Thick wholemeal 113.53
+0 cheddar 224.83

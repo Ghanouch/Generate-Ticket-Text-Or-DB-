@@ -1,0 +1,35 @@
+0 BIM STORES 
+0 Magasin Rabat Hassan
+0 Route de Rabat Hassan lotissement badiaa 
+0 Rabat
+2 2005-02-03 N° ticket: 0144
+2 TIME: 10:02:05
+3 9 X 109.01
+1 Zumo de Piña 20% 981.09
+3 2 X 16.69
+1 Zumo de Piña 20% 33.38
+1 Crumbled Feta Cheese 10% 66.08
+3 6 X 112.93
+1 Rose Water 13% 677.58
+1 Botan Rice Candy 0% 50.32
+1 FLAPJACK Mini Bites 13% 48.73
+1 Pizza Parlanno 2% 71.26
+1 Mac 'n Cheese 1% 10.11
+1 Cheesy Pizza 8% 77.59
+1 Buttermilk Pancake 20% 42.05
+3 6 X 90.3
+1 slim jim 20% 541.8
+3 5 X 37.24
+1 slim jims 13% 186.2
+0 TOTAL 2 786.19 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 786.23 DH 
+0 Dont TVA  79.14 DH
+0 ESPECES 2836
+0 RENDU 50 
+0 NOMBRE ARTICLES  12
+0 M:3600 P:396 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

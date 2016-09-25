@@ -1,0 +1,6 @@
+3 9 X 100.26
+1 Tomato ketchup 8% 902.34
+1 Organic Ketchup 8% 18.38
+1 Lait au chocolat 15% 89.15
+1 Linguine 15% 18.23
+1 Ordi 15% 88.83

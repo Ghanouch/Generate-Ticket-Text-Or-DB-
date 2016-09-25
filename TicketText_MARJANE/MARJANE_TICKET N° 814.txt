@@ -1,0 +1,8 @@
+1 (6)0073007007303 Italian Dry Salame 55.72
+0 hot-fudge 55.72
+1 (2)0104343353757 babycorn 54.2
+0 babycorn 54.2
+1 (9)0051500000267 Strawberry topping 99.74
+0 strawberry-topping 99.74
+1 (2)0080973388540 Chicken Laksa 83.16
+0 chicken-laksa 83.16

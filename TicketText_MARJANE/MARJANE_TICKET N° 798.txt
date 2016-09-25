@@ -1,0 +1,28 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Béni Mellal 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2013-06-22 17:06:49 85 97 8500
+1 (6)0017000006574 Tomates bio 30.68
+1 (2)0027400265051 Country Crock 18.84
+1 (7)0033776011703 Earth balance 58.94
+1 (5)0033776011895 Buttery spread  44.19
+1 (8)0034500195003 Whipped butter 6.26
+1 (7)0034800004005 Kipper Snacks  90.72
+1 (6)0040600034166 Original 
+3 PRIX PROMOTION  90.6
+0 spreads 340.23
+1 (7)0000020364373 Zumo de Piña 109.01
+0 chicken-feet 109.01
+1 (5)0070157888646 Crumbled Feta Cheese 66.08
+0 feta-cheese 66.08
+1 (5)0006878982781 Rollmop Herrings
+3 5 x 24.7 123.5
+1 (6)0007043057376 Creamy Chicken Pie
+3 3 x 101.87 305.61
+0 harengs 429.11
+1 (4)0017034020041 Cucumbers in Brine 63.08
+0 cucumbers-in-brine 63.08
+1 (7)0017421387183 cut mixed peel 118.08
+0 peels 118.08

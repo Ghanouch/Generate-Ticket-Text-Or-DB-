@@ -1,0 +1,6 @@
+1 (4)0016000002043 Tome fraîche 54.01
+1 (6)0016000006287 Pilons de poulet 
+3 PRIX PROMOTION  33.11
+0 dairies 87.12
+1 (2)0093966000283 Heavy whipping cream 59.2
+0 whipping-cream 59.2

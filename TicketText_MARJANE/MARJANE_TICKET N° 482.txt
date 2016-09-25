@@ -1,0 +1,29 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tabriquet 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-12-06 10:12:07 53 65 5300
+1 (7)0058220000003 Saure Sahne 10% Fett 3.73
+1 (6)0058300462196 Tacos tout plat 14.72
+0 saure-sahne 18.45
+1 (2)0059527305983 True To Nature 58.56
+0 snack-bar 58.56
+1 (4)0017082873828 Original Beef Stick 99.75
+0 beef-jerky 99.75
+1 (9)0012000018817 Pepsi Max 82.43
+0 diet-colas 82.43
+1 (1)0083318945104 Bird's Eye Chillies 11.63
+1 (8)0089262933583 Red Chillies 
+3 PRIX PROMOTION  62.66
+1 (6)0089565106725 Thai chicken soup 64.77
+1 (8)0095477868117 Finger Chillies 73.43
+0 chillies 463.13
+1 (2)0002515783254 Pizza Parlanno 71.26
+1 (1)0003655932054 Mac 'n Cheese 10.11
+1 (4)0022664647766 Cheesy Pizza 77.59
+1 (7)0025925532683 Buttermilk Pancake 42.05
+1 (7)0026200140605 slim jim 90.3
+1 (8)0026200162362 slim jims
+3 5 x 37.24 186.2
+0 meals 477.51

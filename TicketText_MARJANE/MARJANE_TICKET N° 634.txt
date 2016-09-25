@@ -1,0 +1,10 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tabriquet 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-04-18 12:04:50 17 29 1700
+1 (5)0072935053000 Fat Free Milk 40.55
+0 fat-free-milk 40.55
+1 (6)0021908459899 Peanut butter bliss 6.99
+0 peanut-butter-bliss 6.99

@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Larache 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-10-09 11:10:20 55 67 5500
+1 (4)0055742586398 Medium Cheddar 63.04
+0 medium-cheddar 63.04
+1 (6)0021130506279 Mini penne 61.06
+1 (2)0021130512652 Balsamic garlic 53.95
+0 penne 115.01
+1 (3)0050000111879 hot cocoa 86.99
+1 (5)0050000127344 Coffeemate hazelnut 102.95
+0 hot-cocoa-mix 189.94

@@ -1,0 +1,17 @@
+1 (3)0084909003904 Palm Sugar 57.71
+0 palm-sugar 57.71
+1 (9)0078742371085 Cherry Pie Filling 12.41
+1 (5)0078742371375 lentils 86.93
+0 cherry-pie-filling 99.34
+1 (4)0099496527387 Dark Chocolate Mints 85.6
+0 chocolate-mints 85.6
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (3)0070166278182 Bourbon Biscuits 
+3 PRIX PROMOTION  81.61
+0 bourbon-biscuits 81.61
+1 (4)0085206727552 Sicilian Lemon Curd
+3 9 x 56.21 505.89
+0 creme-de-citron 505.89
+1 (6)0021908459899 Peanut butter bliss 6.99
+0 peanut-butter-bliss 6.99

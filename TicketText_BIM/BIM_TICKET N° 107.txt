@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2001-04-13 N° ticket: 0107
+2 TIME: 16:04:58
+1 Sen-cha 5% 84.86
+1 Carbonara 8% 80.03
+1 Pepsi Max 0% 82.43
+1 Olive Bruschetta 8% 25.11
+1 Chilli Garlic Sauce 5% 65.21
+0 TOTAL 337.64 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  337.68 DH 
+0 Dont TVA  14.93 DH
+0 ESPECES 387
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:200 P:22 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

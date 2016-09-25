@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Sidi Kacem
+0 Route de Sidi Kacem lotissement badiaa 
+0 Sidi Kacem
+2 2012-08-04 N° ticket: 0173
+2 TIME: 08:08:30
+1 Medium Cheddar 8% 63.04
+1 Turkey breast 8% 96.06
+1 german smoked cheese 8% 21.18
+1 Prosciutto 5% 66.6
+0 TOTAL 246.88 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  246.92 DH 
+0 Dont TVA  16.53 DH
+0 ESPECES 296
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:8000 P:880 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

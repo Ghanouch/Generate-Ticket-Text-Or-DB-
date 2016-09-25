@@ -1,0 +1,14 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2008-08-10 N° ticket: 0318
+2 TIME: 16:08:45
+1 100 % Maple syrup 2% 53.56
+3 9 X 17.82
+1 British Icing Sugar 8% 160.38
+1 Original Syrup 15% 85.55
+1 Hot Cocoa classic 5% 39.88
+1 Redbush Teabags 5% 96.34
+3 9 X 40.55
+1 Fat Free Milk 10% 364.95

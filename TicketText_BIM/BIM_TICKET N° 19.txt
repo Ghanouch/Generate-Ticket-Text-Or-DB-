@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Maârif
+0 Route de Maârif lotissement badiaa 
+0 Casablanca
+2 2004-02-02 N° ticket: 0019
+2 TIME: 12:02:10
+1 Thé vert Nature 8% 70.72
+1 Pineapple Topping 0% 68.64
+1 Sauce aux piments 5% 1.41
+1 Guacachip 15% 66.37
+1 hot fudge topping 0% 94.65
+3 3 X 42.21
+1 Cilantro salsa mild 2% 126.63
+1 Salsa Verde 5% 67.93
+0 TOTAL 496.35 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  496.39 DH 
+0 Dont TVA  18.02 DH
+0 ESPECES 546
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:3200 P:352 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

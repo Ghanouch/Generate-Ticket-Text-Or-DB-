@@ -1,0 +1,11 @@
+1 (6)0070796130090 Pappardelle 51.47
+1 (4)0070796903120 Plain bread crumbs 104.95
+0 pappardelle 156.42
+1 (6)0012985528556 Kirsch 109.34
+0 eau-de-vie 109.34
+1 (1)0085000012277 Pinot noir 66.11
+0 pinot-noir 66.11
+1 (4)0078895138948 Spicy bean sauce 72.21
+0 soja-fermente 72.21
+1 (2)0104343353757 babycorn 54.2
+0 babycorn 54.2

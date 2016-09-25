@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Guelmim 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-06-21 19:06:43 14 26 1400
+1 (4)0055742586398 Medium Cheddar 
+3 PRIX PROMOTION  62.04
+0 medium-cheddar 62.04
+1 (6)0070796130090 Pappardelle 51.47
+1 (4)0070796903120 Plain bread crumbs 104.95
+0 pappardelle 156.42
+1 (5)0068749282246 tikka masala sauce 11.85
+0 sauce-tikka-masala 11.85

@@ -1,0 +1,31 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Ouarzazate
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2013-08-26 09:08:12 18 30 1800
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (3)0009300128896 Kosher Dills
+3 6 x 96.76 580.56
+1 (7)0043646210389 Cornichons
+3 6 x 62.87 377.22
+0 pickles 957.78
+1 (8)0024300044489 Bat Brownies
+3 4 x 13.42 53.68
+1 (3)0024321915805 Natrel LilMilk
+3 3 x 0.22 0.66
+1 (5)0024335060744 Sea Salt Corn Chips 47.29
+0 brownie 101.63
+1 (8)0049309132630 Cornichoner 94.28
+1 (6)0049508003731 Pretzel Crisps 99.35
+0 attiksgurka 193.63
+1 (3)0031200210074 Cran-Apple 14.26
+1 (3)0031200452009 Cranberry Classic 36.53
+1 (7)0071170874562 Cherry Juice Drink 69.01
+1 (8)0087703000988 red pepper powder 
+3 PRIX PROMOTION  111.73
+0 juice-drinks 231.53
+1 (5)0037600190671 Spam Single Classic
+3 5 x 103.53 517.65
+0 precooked-meat 517.65

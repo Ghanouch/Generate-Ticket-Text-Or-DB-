@@ -1,0 +1,20 @@
+0 BIM STORES 
+0 Magasin Sidi Slimane
+0 Route de Sidi Slimane lotissement badiaa 
+0 Sidi Slimane
+2 2002-10-20 N° ticket: 0058
+2 TIME: 17:10:51
+1 Quinoa Blend 10% 52.12
+1 german smoked cheese 8% 21.18
+0 TOTAL 73.3 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  73.34 DH 
+0 Dont TVA  6.31 DH
+0 ESPECES 123
+0 RENDU 50 
+0 NOMBRE ARTICLES  2
+0 M:5400 P:594 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

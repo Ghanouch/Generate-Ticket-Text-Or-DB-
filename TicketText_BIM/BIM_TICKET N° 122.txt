@@ -1,0 +1,9 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2012-06-22 N° ticket: 0122
+2 TIME: 19:06:09
+1 miel 5% 58.15
+1 Pumpkin Seed Pecan 20% 70.54
+1 Organic White Quinoa 2% 65.89

@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2009-12-09 N° ticket: 0051
+2 TIME: 11:12:22
+1 Italian Dry Salame 15% 55.72
+1 Organic popcorn 20% 54.35
+1 clementine juice 2% 70.18
+1 Pinot noir 1% 66.11
+1 Fruit Spread 2% 18.86
+1 Sauce aux piments 5% 1.41
+1 4 all butter muffins 2% 15.41

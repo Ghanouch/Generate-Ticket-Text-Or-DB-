@@ -1,0 +1,8 @@
+1 (4)0012524702117 Caramel Popcorn 102.03
+1 (4)0012546315098 Dentyne fire 59.56
+0 caramel-popcorn 161.59
+1 (9)0012000018817 Pepsi Max 
+3 PRIX PROMOTION  81.43
+0 diet-colas 81.43
+1 (7)0011110862815 Pumpkin Seed Pecan 70.54
+0 pumpkin-seed-pecan 70.54

@@ -1,0 +1,15 @@
+1 (7)0000010127735 Sirops pour ganache macarons 79.1
+0 syrups 79.1
+1 (2)0000087177756 7Up
+3 7 x 95.21 666.47
+1 (7)0000886100252 Pepsi 21.79
+1 (9)0011110831668  pure honey 87.39
+1 (2)0000087177756 7Up 74.8
+1 (1)0011645004315 Honey Soy Drink
+3 4 x 66.5 266
+0 beverages 1 116.45
+1 (4)0055742586398 Medium Cheddar
+3 4 x 63.04 252.16
+0 medium-cheddar 252.16
+1 (8)0078907450396 Original Salsitas 85.91
+0 salsa-chips 85.91

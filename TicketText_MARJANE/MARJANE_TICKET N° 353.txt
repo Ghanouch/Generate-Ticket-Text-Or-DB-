@@ -1,0 +1,9 @@
+1 (3)0096619850037 miel 58.15
+0 liquid-honey 58.15
+1 (5)0096619527694 Cashews 108.63
+0 cashews 108.63
+1 (3)0073546969232 Redbush Teabags 96.34
+0 teabags 96.34
+1 (7)0074865756648 Reduced fat milk 
+3 PRIX PROMOTION  72.72
+0 reduced-fat-milk 72.72

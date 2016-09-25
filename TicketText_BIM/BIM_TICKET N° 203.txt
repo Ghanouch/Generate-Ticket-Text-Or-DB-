@@ -1,0 +1,8 @@
+0 BIM STORES 
+0 Magasin Gueliz
+0 Route de Gueliz lotissement badiaa 
+0 Marrakech
+2 2014-02-10 N° ticket: 0203
+2 TIME: 08:02:38
+1 Carbonara 8% 80.03
+1 Corn meal 5% 71.28

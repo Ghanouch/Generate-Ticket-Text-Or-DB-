@@ -1,0 +1,17 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Nador 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-04-22 17:04:20 38 50 3800
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (5)0018627740001 Go Lean Cereals 
+3 PRIX PROMOTION  5.25
+0 cereales 5.25
+1 (8)0070845647165 Pear Cider 67.48
+1 (6)0070847003205 Peace Tea 104.79
+0 pear-cider 172.27
+1 (8)0010786091585 Chips de légumes 28.67
+1 (2)0011632975144 Breast fillets 22.03
+0 salty-snacks 50.7

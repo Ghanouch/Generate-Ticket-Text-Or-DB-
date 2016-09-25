@@ -1,0 +1,10 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2012-08-11 N° ticket: 0323
+2 TIME: 09:08:32
+3 2 X 30.68
+1 Tomates bio 15% 61.36
+1 Country Crock 2% 18.84
+1 Olive Bruschetta 8% 25.11

@@ -1,0 +1,26 @@
+1 (9)0081926856254 Pure Honey 59.65
+0 miels 59.65
+1 (5)0018627740001 Go Lean Cereals 6.25
+0 cereales 6.25
+1 (4)0055742586398 Medium Cheddar 
+3 PRIX PROMOTION  62.04
+0 medium-cheddar 62.04
+1 (9)0078742371085 Cherry Pie Filling 12.41
+1 (5)0078742371375 lentils 86.93
+0 cherry-pie-filling 99.34
+1 (8)0028400071321 Simply Ruffles 98.28
+1 (5)0000548708612 Sea Salt Potato Chips 106.51
+1 (5)0000666656682 Sea Salt Potato Chips 23.3
+1 (5)0000765847165 Sea Salt Potato Chips 98.54
+0 chips-and-fries 326.63
+1 (8)0070845647165 Pear Cider 67.48
+1 (6)0070847003205 Peace Tea 104.79
+0 pear-cider 172.27
+1 (2)0002515783254 Pizza Parlanno 71.26
+1 (1)0003655932054 Mac 'n Cheese
+3 8 x 10.11 80.88
+1 (4)0022664647766 Cheesy Pizza 77.59
+1 (7)0025925532683 Buttermilk Pancake
+3 9 x 42.05 378.45
+1 (7)0026200140605 slim jim 90.3
+0 meals 698.48

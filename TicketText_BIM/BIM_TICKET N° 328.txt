@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Had Soualem
+0 Route de Had Soualem lotissement badiaa 
+0 Berrechid
+2 2011-06-26 N° ticket: 0328
+2 TIME: 11:06:30
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+1 Original Syrup 15% 85.55
+3 7 X 12.34
+1 Cinnamon sugar 15% 86.38
+1 Pure maple syrup 5% 53.4
+1 Italian Dry Salame 15% 55.72
+1 Grape 20% 60.49
+0 TOTAL 412.92 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  412.96 DH 
+0 Dont TVA  35.03 DH
+0 ESPECES 462
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:1400 P:154 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

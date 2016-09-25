@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2010-10-08 N° ticket: 0331
+2 TIME: 13:10:13
+1 Kraft singles 13% 28.97
+1 Chili beef nachos 20% 0.4
+1 Nudie - Orange Juice 8% 77.4
+1 Organic Baby Arugula 1% 39.75
+1 Original Salsitas 13% 85.91
+1 german smoked cheese 8% 21.18
+0 TOTAL 253.61 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  253.65 DH 
+0 Dont TVA  20.98 DH
+0 ESPECES 303
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:2500 P:275 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

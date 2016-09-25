@@ -1,0 +1,31 @@
+1 jamon de teruel dop 8% 6.91
+3 5 X 65.44
+1 mortadella 8% 327.2
+3 2 X 104.39
+1 Tartar 20% 208.78
+3 6 X 53.32
+1 Wild Caught Shrimp 8% 319.92
+1 Kippered fillets 2% 84.52
+3 7 X 28.14
+1 Cream cheese spread 8% 196.98
+1 Dark Chocolate Mints 8% 85.6
+1 Kirsch 15% 109.34
+1 Chilli Garlic Sauce 5% 65.21
+3 2 X 67.48
+1 Pear Cider 13% 134.96
+3 7 X 104.79
+1 Peace Tea 15% 733.53
+1 Reese minis 13% 23.02
+1 Riz basmati 10% 22.53
+0 TOTAL 2 318.5 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 318.54 DH 
+0 Dont TVA  80.28 DH
+0 ESPECES 2368
+0 RENDU 50 
+0 NOMBRE ARTICLES  13
+0 M:2100 P:231 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

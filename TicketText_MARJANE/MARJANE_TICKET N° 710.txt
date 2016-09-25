@@ -1,0 +1,30 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Inezgane 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-02-15 12:02:57 36 48 3600
+1 (9)0080989489394 Hot Beef Curry 15.27
+0 hot-beef-curry 15.27
+1 (2)0000310034385 Chair à saucisse 61.31
+1 (6)0002575196144 Honey roast ham 83.78
+1 (2)0000310096285 Chair à saucisse 43.75
+1 (3)0015654001068 Applesauce Natural 68.31
+1 (2)0021130153503 Cooked Ham 22.2
+1 (5)0038101009660 Italian Dry Salami 82.85
+0 meats 362.2
+1 (5)0006878982781 Rollmop Herrings 24.7
+1 (6)0007043057376 Creamy Chicken Pie 101.87
+0 harengs 126.57
+1 (7)0041331021630 Cream of Coconut 84.08
+0 coconut-cream 84.08
+1 (9)0051500000489 hot fudge topping 94.65
+0 hot-fudge-topping 94.65
+1 (7)0074865756648 Reduced fat milk
+3 9 x 73.72 663.48
+0 reduced-fat-milk 663.48
+1 (2)0072101011902 Cilantro salsa mild 42.21
+1 (3)0072878057417 Salsa Verde
+3 7 x 67.93 475.51
+1 (5)0072878275637 Salsa Casera Mild 83.35
+0 salsa 601.07

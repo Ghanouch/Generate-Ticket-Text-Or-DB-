@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Mohammedia
+0 Route de Mohammedia lotissement badiaa 
+0 Mohammedia
+2 2011-08-13 N° ticket: 0219
+2 TIME: 17:08:22
+1 Saure Sahne 10% Fett 20% 3.73
+1 Tacos tout plat 15% 14.72
+1 Crumbled Feta Cheese 10% 66.08
+3 3 X 101.71
+1 Rice flakes sheet 8% 305.13
+1 Bat Brownies 13% 13.42
+3 4 X 0.22
+1 Natrel LilMilk 5% 0.88
+1 Sea Salt Corn Chips 10% 47.29
+1 Chicken Laksa 2% 83.16
+0 TOTAL 534.41 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  534.45 DH 
+0 Dont TVA  23.57 DH
+0 ESPECES 584
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:8100 P:891 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

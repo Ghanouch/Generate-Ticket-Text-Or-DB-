@@ -1,0 +1,20 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Agdal 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-04-14 16:04:15 18 30 1800
+1 (3)0073469305016 Sen-cha 84.86
+0 hawaiian-sweet-rolls 84.86
+1 (6)0037466081342 Swiss thin 27.9
+0 chocolats 27.9
+1 (3)0027000500064 Fusilli 96.82
+1 (2)0027259032118 Guers diet tea 43.68
+0 popping-corn 140.5
+1 (2)0052296088390 4 all butter muffins 15.41
+0 muffins 15.41
+1 (4)0045058439123 german smoked cheese
+3 3 x 21.18 63.54
+0 smoked-cheese 63.54
+1 (5)0037600190671 Spam Single Classic 103.53
+0 precooked-meat 103.53

@@ -1,0 +1,15 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Bd Marche Verte
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-06-02 09:06:09 14 26 1400
+1 (4)0012000024535 Citrus Green Tea 99.46
+0 tea-drinks 99.46
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (6)0059491000600 mr noodle 98.69
+0 pates 98.69
+1 (6)0078907470370 Guacachip 
+3 PRIX PROMOTION  65.37
+0 tortilla-chips 65.37

@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin El Jadida
+0 Route de El Jadida lotissement badiaa 
+0 El Jadida
+2 2008-06-15 N° ticket: 0218
+2 TIME: 17:06:43
+1 Zumo de Piña 20% 109.01
+1 Zumo de Piña 20% 16.69
+1 Salsa de mostaza 1% 23
+1 Flat Leaf Parsley 0% 65.26
+0 TOTAL 213.96 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  214 DH 
+0 Dont TVA  21.18 DH
+0 ESPECES 263
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:2600 P:286 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

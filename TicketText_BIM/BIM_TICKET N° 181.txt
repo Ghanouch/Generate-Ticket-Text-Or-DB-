@@ -1,0 +1,10 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2013-02-22 N° ticket: 0181
+2 TIME: 13:02:20
+3 4 X 109.01
+1 Zumo de Piña 20% 436.04
+1 Zumo de Piña 20% 16.69
+1 Italian Dry Salame 15% 55.72

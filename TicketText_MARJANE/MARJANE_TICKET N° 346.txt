@@ -1,0 +1,23 @@
+1 (8)0078000052404 A&W Rootbeer 97.63
+0 root-beer 97.63
+1 (9)0048500008386 Tropicana Cranberry
+3 3 x 79.13 237.39
+1 (1)0048500018347 Jus d'orange 10.51
+0 juice-beverage 247.9
+1 (3)0043647680037 Lemon Curd 100.47
+0 lemon-curd 100.47
+1 (6)0000000024600 Filet de bœuf
+3 6 x 109.28 655.68
+1 (6)0000000036252 Lion Peanut x2
+3 7 x 55.49 388.43
+1 (7)0000000039259 Twix x2 65.09
+1 (9)0000000039529 Pack de 2 Twix 95.3
+1 (6)0000000024600 Filet de bœuf
+3 8 x 80.95 647.6
+1 (6)0000000027205 Filet de bœuf
+3 3 x 22.62 67.86
+0 filet-de-boeuf 1 919.96
+1 (7)0011110862815 Pumpkin Seed Pecan 70.54
+0 pumpkin-seed-pecan 70.54
+1 (7)0041331021630 Cream of Coconut 84.08
+0 coconut-cream 84.08

@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Ain Chock
+0 Route de Ain Chock lotissement badiaa 
+0 Casablanca
+2 2007-08-18 N° ticket: 0154
+2 TIME: 10:08:52
+1 Garden peas 13% 36.22
+1 fine beans 5% 92.95
+1 Sen-cha 5% 84.86
+1 Pure Honey 0% 59.65
+1 True To Nature 2% 58.56
+1 Very vanilla Soymilk 15% 48.47
+1 Haricots blancs 15% 11.67
+0 TOTAL 392.38 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  392.42 DH 
+0 Dont TVA  21.63 DH
+0 ESPECES 442
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:2500 P:275 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

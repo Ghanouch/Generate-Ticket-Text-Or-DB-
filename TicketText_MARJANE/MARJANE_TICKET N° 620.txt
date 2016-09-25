@@ -1,0 +1,10 @@
+1 (8)0078000052404 A&W Rootbeer 97.63
+0 root-beer 97.63
+1 (9)0070177182168 earl grey 53.7
+0 earl-grey 53.7
+1 (6)0059491000600 mr noodle 98.69
+0 pates 98.69
+1 (5)0040100007295 Instant Dry Yeast
+3 3 x 93.95 281.85
+1 (4)0040232751202 Bayani brew 68.91
+0 instant-dry-yeast 350.76

@@ -1,0 +1,26 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Guelmim 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2013-09-30 19:09:00 52 64 5200
+1 (8)0078000052404 A&W Rootbeer 97.63
+0 root-beer 97.63
+1 (2)0014683003708 100 % Maple syrup 53.56
+1 (4)0018030696400 British Icing Sugar
+3 5 x 17.82 89.1
+1 (6)0018894834106 Original Syrup 85.55
+1 (6)0021248102196 Cinnamon sugar 12.34
+0 sweeteners 240.55
+1 (5)0015778037830 Lemongrass Paste 107.72
+0 lemongrass-paste 107.72
+1 (9)0077377002166 JAVA CURRY SAUCE MIX
+3 7 x 53.97 377.79
+0 sauce-curry 377.79
+1 (2)0018802924423 clementine juice
+3 5 x 70.18 350.9
+0 venison-burger 350.9
+1 (5)0070100002143 Ragoût de bœuf 109.05
+0 ragout-de-boeuf 109.05
+1 (5)0072935053000 Fat Free Milk 40.55
+0 fat-free-milk 40.55

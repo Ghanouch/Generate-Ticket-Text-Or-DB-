@@ -1,0 +1,15 @@
+1 (1)0054256286240 Organic Chia Seed 40.44
+0 chia-seed 40.44
+1 (2)0000007020254 lentilles vertes  42.94
+0 root-bier 42.94
+1 (9)0012000018817 Pepsi Max
+3 3 x 82.43 247.29
+0 diet-colas 247.29
+1 (8)0025638890021 Rose Water 112.93
+0 rose-water 112.93
+1 (4)0025317686006 Turkey breast 96.06
+0 genoa-salami 96.06
+1 (3)0050000111879 hot cocoa 
+3 PRIX PROMOTION  85.99
+1 (5)0050000127344 Coffeemate hazelnut 102.95
+0 hot-cocoa-mix 188.94

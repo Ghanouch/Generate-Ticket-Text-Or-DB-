@@ -1,0 +1,10 @@
+1 (9)0069276120034 Sweet mango Chutney 66.53
+0 mango-chutney 66.53
+1 (9)0070177182168 earl grey
+3 10 x 53.7 537
+0 earl-grey 537
+1 (6)0026400803706 Cottage Cheese 4.01
+1 (2)0026595786891 Tropik splash 3.16
+1 (2)0027000009338 Blue Bonnet
+3 6 x 82.35 494.1
+0 cottage-cheese 501.27

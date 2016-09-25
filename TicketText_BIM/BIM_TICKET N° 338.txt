@@ -1,0 +1,22 @@
+0 BIM STORES 
+0 Magasin Rabat Agdal
+0 Route de Rabat Agdal lotissement badiaa 
+0 Rabat
+2 2006-02-06 N° ticket: 0338
+2 TIME: 20:02:36
+1 Zumo de Piña 20% 109.01
+1 Zumo de Piña 20% 16.69
+1 Raspberry preserve 15% 69.48
+1 Semolina 8% 3.21
+0 TOTAL 198.39 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  198.43 DH 
+0 Dont TVA  30.25 DH
+0 ESPECES 248
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:9200 P:1012 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

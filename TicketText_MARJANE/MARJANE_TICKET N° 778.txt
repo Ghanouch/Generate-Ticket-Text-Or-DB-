@@ -1,0 +1,28 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Massira 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-04-03 12:04:08 34 46 3400
+1 (2)0059527305983 True To Nature 58.56
+0 snack-bar 58.56
+1 (7)0000020364373 Zumo de Piña 109.01
+1 (7)0000020364373 Zumo de Piña 16.69
+0 chicken-feet 125.7
+1 (1)0054256286240 Organic Chia Seed 40.44
+0 chia-seed 40.44
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice
+3 2 x 106.71 213.42
+1 (4)0025000056031 100% Orange Juice 47.49
+1 (6)0028000984434 Juicy Juice Apple 16.09
+0 fruit-juices 322.62
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33
+1 (4)0016447100951 Premium Ground Bison 10.09
+0 bison 10.09
+1 (1)0000084154071 Salsa de mostaza 23
+1 (9)0000292909757 Flat Leaf Parsley 65.26
+1 (4)0000843347515 Mixed peppers
+3 9 x 43.55 391.95
+0 groceries 480.21

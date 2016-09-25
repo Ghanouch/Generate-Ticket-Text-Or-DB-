@@ -1,0 +1,11 @@
+0 BIM STORES 
+0 Magasin Rabat Hassan
+0 Route de Rabat Hassan lotissement badiaa 
+0 Rabat
+2 2013-04-24 N° ticket: 0252
+2 TIME: 11:04:05
+1 Sweet mango Chutney 0% 66.53
+1 True To Nature 2% 58.56
+1 Mini Cups 20% 45.79
+1 Nutella 20% 62.95
+1 Italian gnocchi 8% 69.08

@@ -1,0 +1,31 @@
+0 BIM STORES 
+0 Magasin kenitra
+0 Route de kenitra lotissement badiaa 
+0 kenitra
+2 2003-06-29 N° ticket: 0029
+2 TIME: 19:06:31
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+3 6 X 85.55
+1 Original Syrup 15% 513.3
+3 9 X 12.34
+1 Cinnamon sugar 15% 111.06
+1 Tropicana Cranberry 0% 79.13
+1 Jus d'orange 1% 10.51
+1 Sauce aux piments 5% 1.41
+1 Cornichoner 13% 94.28
+3 9 X 99.35
+1 Pretzel Crisps 15% 894.15
+1 vegetarian bean 15% 51.01
+0 TOTAL 1 826.23 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 826.27 DH 
+0 Dont TVA  45.77 DH
+0 ESPECES 1876
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:6500 P:715 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

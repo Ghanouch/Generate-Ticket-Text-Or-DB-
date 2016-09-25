@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2002-02-13 N° ticket: 0172
+2 TIME: 11:02:59
+1 Guava 8% 35.56
+1 Mango 20% 60.5
+1 Lemon Curd 5% 100.47
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+3 8 X 91.9
+1 Corned Beef 13% 735.2
+3 8 X 40.55
+1 Fat Free Milk 10% 324.4
+1 Prosciutto 5% 66.6
+0 TOTAL 1 479.15 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 479.19 DH 
+0 Dont TVA  49.42 DH
+0 ESPECES 1529
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:5700 P:627 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Saîss 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-08-11 08:08:55 9 21 900
+1 (4)0012000024535 Citrus Green Tea
+3 2 x 99.46 198.92
+0 tea-drinks 198.92
+1 (5)0051500000229 chocolate fudge 22.18
+0 chocolate-fudge 22.18
+1 (8)0024300044489 Bat Brownies 13.42
+1 (3)0024321915805 Natrel LilMilk 0.22
+0 brownie 13.64

@@ -1,0 +1,26 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Maarif
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-02-22 18:02:59 44 56 4400
+1 (9)0080989489394 Hot Beef Curry 15.27
+0 hot-beef-curry 15.27
+1 (2)0014683003708 100 % Maple syrup 53.56
+1 (4)0018030696400 British Icing Sugar 17.82
+1 (6)0018894834106 Original Syrup 85.55
+0 sweeteners 156.93
+1 (8)0067018025746 sultanas 90.95
+0 sultanas 90.95
+1 (2)0000310034385 Chair à saucisse 61.31
+1 (6)0002575196144 Honey roast ham 83.78
+1 (2)0000310096285 Chair à saucisse 43.75
+0 meats 188.84
+1 (4)0047469042912 Carb Intercept 65.1
+1 (7)0047469058890 Vitamin D3 91.73
+1 (4)0070077001064 Shrimp fried rice 38.59
+0 dietary-supplements 195.42
+1 (9)0051500000267 Strawberry topping 99.74
+0 strawberry-topping 99.74
+1 (5)0037600190671 Spam Single Classic 103.53
+0 precooked-meat 103.53

@@ -1,0 +1,11 @@
+1 (8)0028400071321 Simply Ruffles 98.28
+1 (5)0000548708612 Sea Salt Potato Chips 106.51
+1 (5)0000666656682 Sea Salt Potato Chips 23.3
+1 (5)0000765847165 Sea Salt Potato Chips 98.54
+0 chips-and-fries 326.63
+1 (3)0011200001407 Sauce aux piments
+3 6 x 1.41 8.46
+0 sauce-aux-piments 8.46
+1 (3)0050000111879 hot cocoa 86.99
+1 (5)0050000127344 Coffeemate hazelnut 102.95
+0 hot-cocoa-mix 189.94

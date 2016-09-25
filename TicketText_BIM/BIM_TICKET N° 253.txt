@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2013-10-18 N° ticket: 0253
+2 TIME: 11:10:40
+1 7Up 2% 95.21
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+1 7Up 2% 74.8
+1 prunes 13% 89.13
+1 Bat Brownies 13% 13.42
+1 Natrel LilMilk 5% 0.22
+1 Sea Salt Corn Chips 10% 47.29
+1 Dill sauce 15% 6.43
+0 TOTAL 435.68 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  435.72 DH 
+0 Dont TVA  23.91 DH
+0 ESPECES 485
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:700 P:77 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

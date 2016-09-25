@@ -1,0 +1,21 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Maarif
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-04-26 19:04:39 83 95 8300
+1 (6)0021130506279 Mini penne 61.06
+1 (2)0021130512652 Balsamic garlic 53.95
+0 penne 115.01
+1 (3)0050000111879 hot cocoa 86.99
+0 hot-cocoa-mix 86.99
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33
+1 (3)0065207045537 CHOCLATE BROWNIE 36.47
+1 (3)0065250005311 Canned Pineapple 64.69
+0 chocolate-brownies 101.16
+1 (8)0041190031177 salt free rice cakes 
+3 PRIX PROMOTION  84.64
+0 pierogies 84.64
+1 (6)0021908459899 Peanut butter bliss 6.99
+0 peanut-butter-bliss 6.99

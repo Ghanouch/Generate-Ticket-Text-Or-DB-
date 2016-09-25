@@ -1,0 +1,14 @@
+0 BIM STORES 
+0 Magasin Sidi Kacem
+0 Route de Sidi Kacem lotissement badiaa 
+0 Sidi Kacem
+2 2008-08-15 N° ticket: 0049
+2 TIME: 09:08:33
+1 Sweet mango Chutney 0% 66.53
+3 8 X 15.27
+1 Hot Beef Curry 0% 122.16
+1 Turkey breast 8% 96.06
+3 7 X 12.04
+1 Chicken Chow Mein 1% 84.28
+1 Fibre menu bleu 20% 83.2
+1 Whole Wheat Wraps 8% 12.2

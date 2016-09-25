@@ -1,0 +1,16 @@
+1 (9)0000030053014 Bonbon Vichy 90.3
+1 (8)0000790310013 Sour Fruit Gummies 37.56
+0 sugary-snacks 127.86
+1 (2)0068303687338 2 salmon fillets 9.47
+0 salmon-fillets 9.47
+1 (5)0006878982781 Rollmop Herrings 24.7
+1 (6)0007043057376 Creamy Chicken Pie 101.87
+0 harengs 126.57
+1 (9)0011152027869 Botan Rice Candy 50.32
+0 rice-candy 50.32
+1 (2)0052296088390 4 all butter muffins 15.41
+0 muffins 15.41
+1 (2)0072101011902 Cilantro salsa mild 
+3 PRIX PROMOTION  41.21
+1 (3)0072878057417 Salsa Verde 67.93
+0 salsa 109.14

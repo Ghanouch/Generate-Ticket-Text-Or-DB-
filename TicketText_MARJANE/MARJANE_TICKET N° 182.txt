@@ -1,0 +1,18 @@
+1 (5)0081954132617 Salad cream 84.08
+0 salad-sauce 84.08
+1 (2)0000310034385 Chair à saucisse
+3 7 x 61.31 429.17
+1 (6)0002575196144 Honey roast ham 83.78
+1 (2)0000310096285 Chair à saucisse 43.75
+1 (3)0015654001068 Applesauce Natural 68.31
+1 (2)0021130153503 Cooked Ham 22.2
+0 meats 647.21
+1 (3)0011200001407 Sauce aux piments 1.41
+0 sauce-aux-piments 1.41
+1 (1)0083318945104 Bird's Eye Chillies 11.63
+1 (8)0089262933583 Red Chillies 63.66
+1 (6)0089565106725 Thai chicken soup 64.77
+1 (8)0095477868117 Finger Chillies
+3 5 x 73.43 367.15
+1 (8)0095812734067 Palak Paneer 52.56
+0 chillies 559.77

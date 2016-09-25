@@ -1,0 +1,27 @@
+1 (8)0082592633569 Veggies Kale Blazer
+3 6 x 57.4 344.4
+1 (2)0082592720153 Green Machine 50.57
+0 juices 394.97
+1 (4)0017082873828 Original Beef Stick 99.75
+0 beef-jerky 99.75
+1 (5)0050000301621 Coffee-mate
+3 5 x 49.25 246.25
+0 coffee-creamer 246.25
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice 106.71
+1 (4)0025000056031 100% Orange Juice 47.49
+1 (6)0028000984434 Juicy Juice Apple 16.09
+1 (2)0028396028738 apple juice 58.27
+1 (4)0029000011496 planters nut-rition 26.23
+0 fruit-juices 300.41
+1 (2)0060476587144 Caramel Dessert
+3 2 x 32.33 64.66
+0 caramel-dessert 64.66
+1 (5)0032843333137 Breakfast blend 
+3 PRIX PROMOTION  108.26
+1 (9)0033200197140 Ultra Max 78.35
+1 (8)0036084537175 Potato Pancakes 13.98
+1 (3)0042272001019 Cheese Pizza 24.49
+0 frozen-foods 225.08
+1 (5)0037600190671 Spam Single Classic 103.53
+0 precooked-meat 103.53

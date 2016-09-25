@@ -1,0 +1,15 @@
+1 7Up 2% 95.21
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+3 9 X 74.8
+1 7Up 2% 673.2
+1 Honey Soy Drink 1% 66.5
+1 Brisk Iced Tea Lemon 15% 82.43
+3 8 X 91.05
+1 Iced Coffee 10% 728.4
+1 earl grey 0% 53.7
+1 Pappardelle 15% 51.47
+1 Stringless beans 10% 47.99
+1 Green food color 15% 85.23
+3 5 X 40.97
+1 Red food color 10% 204.85

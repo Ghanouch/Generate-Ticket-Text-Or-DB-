@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Sidi Rahal Chatai
+0 Route de Sidi Rahal Chatai lotissement badiaa 
+0 Berrechid
+2 2007-12-05 N° ticket: 0300
+2 TIME: 20:12:36
+3 8 X 98.28
+1 Simply Ruffles 13% 786.24
+1 Sea Salt Potato Chips 10% 106.51
+3 3 X 23.3
+1 Sea Salt Potato Chips 10% 69.9
+1 Sea Salt Potato Chips 10% 98.54
+1 Heavy whipping cream 2% 59.2
+1 Redbush Teabags 5% 96.34
+1 4 all butter muffins 2% 15.41
+3 9 X 118.08
+1 cut mixed peel 20% 1 062.72
+0 TOTAL 2 294.86 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 294.9 DH 
+0 Dont TVA  57.8 DH
+0 ESPECES 2344
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:6700 P:737 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

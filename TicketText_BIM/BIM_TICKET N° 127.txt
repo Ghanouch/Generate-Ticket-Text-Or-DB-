@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Settat
+0 Route de Settat lotissement badiaa 
+0 Settat
+2 2009-10-21 N° ticket: 0127
+2 TIME: 09:10:46
+1 Medium Cheddar 8% 63.04
+1 tuna steak 8% 72.05
+1 Heavy whipping cream 2% 59.2
+1 Sauce de Poisson 2% 6.31
+1 Prosciutto 5% 66.6
+0 TOTAL 267.2 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  267.24 DH 
+0 Dont TVA  14.46 DH
+0 ESPECES 317
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:6400 P:704 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,10 @@
+1 (7)0000020364373 Zumo de Piña 109.01
+1 (7)0000020364373 Zumo de Piña
+3 4 x 16.69 66.76
+0 chicken-feet 175.77
+1 (9)0070177182168 earl grey 53.7
+0 earl-grey 53.7
+1 (8)0025638890021 Rose Water 112.93
+0 rose-water 112.93
+1 (8)0008666059182 prunes 89.13
+0 vinaigre-balsamique 89.13

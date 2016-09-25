@@ -1,0 +1,19 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Kénitra 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-08-16 13:08:32 48 60 4800
+1 (9)0081926856254 Pure Honey 59.65
+0 miels 59.65
+1 (8)0073731004159 Flour Tortillas 60.03
+0 flour-tortillas 60.03
+1 (4)0082011570710 Thin mints 47.67
+1 (8)0082011570727 Samoas 32.21
+0 thin-mints 79.88
+1 (2)0059941277126 Organic White Quinoa 65.89
+0 white-quinoa 65.89
+1 (8)0049309132630 Cornichoner 
+3 PRIX PROMOTION  93.28
+1 (6)0049508003731 Pretzel Crisps 99.35
+0 attiksgurka 192.63

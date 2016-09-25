@@ -1,0 +1,7 @@
+1 (5)0051500000229 chocolate fudge 22.18
+0 chocolate-fudge 22.18
+1 (6)0078907470370 Guacachip 66.37
+0 tortilla-chips 66.37
+1 (2)0002515783254 Pizza Parlanno 
+3 PRIX PROMOTION  70.26
+0 meals 632.34

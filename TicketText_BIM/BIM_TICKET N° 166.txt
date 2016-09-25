@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2012-04-18 N° ticket: 0166
+2 TIME: 11:04:36
+1 A&W Rootbeer 13% 97.63
+1 Thin mints 8% 47.67
+1 Samoas 13% 32.21
+1 Coffee-mate 10% 49.25
+1 Instant Dry Yeast 10% 93.95
+1 Bayani brew 8% 68.91
+1 Organic White Quinoa 2% 65.89
+0 TOTAL 455.51 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  455.55 DH 
+0 Dont TVA  37.88 DH
+0 ESPECES 505
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:5100 P:561 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

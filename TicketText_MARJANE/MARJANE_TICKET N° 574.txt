@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Berkane 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-10-03 15:10:09 66 78 6600
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (2)0036192105162 Fruit Spread 18.86
+0 fruit-spreads 18.86
+1 (8)0053266264066 Irish pancakes 86.47
+0 irish-pancakes 86.47
+1 (7)0011110862815 Pumpkin Seed Pecan 70.54
+0 pumpkin-seed-pecan 70.54

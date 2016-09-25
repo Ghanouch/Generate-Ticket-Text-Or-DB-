@@ -1,0 +1,20 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Nador 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-10-27 08:10:08 64 76 6400
+1 (3)0027000500064 Fusilli 96.82
+1 (2)0027259032118 Guers diet tea 43.68
+0 popping-corn 140.5
+1 (3)0078895770018 Chilli Garlic Sauce 65.21
+0 asian-condiments 65.21
+1 (5)0032843333137 Breakfast blend 109.26
+1 (9)0033200197140 Ultra Max 
+3 PRIX PROMOTION  77.35
+0 frozen-foods 186.61
+1 (2)0080973388540 Chicken Laksa 83.16
+0 chicken-laksa 83.16
+1 (6)0071962208858 Dill sauce
+3 10 x 6.43 64.3
+0 dill-sauce 64.3

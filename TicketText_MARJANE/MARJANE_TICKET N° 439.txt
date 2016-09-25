@@ -1,0 +1,17 @@
+1 (4)0013337132631 jamon de teruel dop 6.91
+1 (4)0013364711411 mortadella 65.44
+1 (7)0041234111766 Tartar
+3 4 x 104.39 417.56
+1 (4)0041369101205 Wild Caught Shrimp 53.32
+1 (2)0061362460024 Kippered fillets 84.52
+0 seafood 627.75
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33
+1 (8)0041190031177 salt free rice cakes 85.64
+0 pierogies 85.64
+1 (2)0002515783254 Pizza Parlanno 71.26
+1 (1)0003655932054 Mac 'n Cheese
+3 6 x 10.11 60.66
+1 (4)0022664647766 Cheesy Pizza 77.59
+1 (7)0025925532683 Buttermilk Pancake 42.05
+0 meals 251.56

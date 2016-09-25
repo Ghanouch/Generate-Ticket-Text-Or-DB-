@@ -1,0 +1,23 @@
+3 7 X 41.78
+1 Blueberry syrup 15% 292.46
+1 Kosher Dills 5% 96.76
+1 Cornichons 20% 62.87
+1 Moutarde de Dijon 5% 61.19
+1 Filet de bœuf 15% 109.28
+1 Lion Peanut x2 15% 55.49
+1 Twix x2 20% 65.09
+1 Pack de 2 Twix 0% 95.3
+1 Grape Tomatoes 13% 75.72
+1 Fat Free Milk 10% 40.55
+0 TOTAL 954.71 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  954.75 DH 
+0 Dont TVA  68.19 DH
+0 ESPECES 1004
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:6600 P:726 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

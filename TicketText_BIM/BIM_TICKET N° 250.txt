@@ -1,0 +1,36 @@
+0 BIM STORES 
+0 Magasin El Gara
+0 Route de El Gara lotissement badiaa 
+0 Berrechid
+2 2002-12-19 N° ticket: 0250
+2 TIME: 17:12:39
+1 2 salmon fillets 2% 9.47
+1 Lipton soup 5% 88.79
+3 10 X 4.01
+1 Cottage Cheese 15% 40.1
+1 Grape 20% 60.49
+1 Botan Rice Candy 0% 50.32
+1 Soursop Juice 5% 32.4
+1 Pate de curry vert 15% 30.92
+1 sriracha chili sauce 10% 11.06
+1 Coconut water 13% 91.5
+1 Oyster sauce 20% 96.54
+1 Bird's Eye Chillies 1% 11.63
+1 Red Chillies 13% 63.66
+1 Thai chicken soup 15% 64.77
+1 Finger Chillies 13% 73.43
+1 Palak Paneer 13% 52.56
+3 10 X 46.04
+1 bird eye chillies 13% 460.4
+0 TOTAL 1 238.04 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 238.08 DH 
+0 Dont TVA  83.89 DH
+0 ESPECES 1288
+0 RENDU 50 
+0 NOMBRE ARTICLES  16
+0 M:2000 P:220 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

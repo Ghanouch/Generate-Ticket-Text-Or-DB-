@@ -1,0 +1,18 @@
+1 (7)0000020364373 Zumo de Piña
+3 5 x 109.01 545.05
+1 (7)0000020364373 Zumo de Piña 
+3 PRIX PROMOTION  15.69
+0 chicken-feet 560.74
+1 (6)0073007007303 Italian Dry Salame 55.72
+0 hot-fudge 55.72
+1 (1)0037600415743 Spam 50% Less Sodium 7.61
+0 canned-meats 7.61
+1 (3)0089782030191 Wheat Sandwich Bread
+3 9 x 31.8 286.2
+0 sandwichs 286.2
+1 (6)0059491000600 mr noodle 98.69
+0 pates 98.69
+1 (9)0051500000267 Strawberry topping 99.74
+0 strawberry-topping 99.74
+1 (7)0017421387183 cut mixed peel 118.08
+0 peels 118.08

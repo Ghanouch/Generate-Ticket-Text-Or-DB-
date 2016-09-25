@@ -1,0 +1,12 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tamesna
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-06-19 14:06:52 6 18 600
+1 (6)0026400803706 Cottage Cheese 4.01
+1 (2)0026595786891 Tropik splash 3.16
+0 cottage-cheese 7.17
+1 (2)0060476587144 Caramel Dessert
+3 5 x 32.33 161.65
+0 caramel-dessert 161.65

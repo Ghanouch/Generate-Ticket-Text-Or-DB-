@@ -1,0 +1,18 @@
+1 7Up 2% 95.21
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+1 7Up 2% 74.8
+1 Honey Soy Drink 1% 66.5
+3 3 X 82.43
+1 Brisk Iced Tea Lemon 15% 247.29
+1 Iced Coffee 10% 91.05
+1 Lemon Curd 5% 100.47
+1 Kosher Dills 5% 96.76
+1 Cornichons 20% 62.87
+3 2 X 61.19
+1 Moutarde de Dijon 5% 122.38
+1 Pumpkin Seed Pecan 20% 70.54
+1 Breakfast blend 10% 109.26
+1 Ultra Max 0% 78.35
+1 Potato Pancakes 13% 13.98
+1 Cheese Pizza 5% 24.49

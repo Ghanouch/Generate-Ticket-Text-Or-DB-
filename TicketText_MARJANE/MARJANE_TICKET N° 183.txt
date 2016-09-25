@@ -1,0 +1,17 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tamesna
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-12-20 18:12:48 11 23 1100
+1 (6)0037466081342 Swiss thin 27.9
+0 chocolats 27.9
+1 (3)0070166278182 Bourbon Biscuits 82.61
+0 bourbon-biscuits 82.61
+1 (8)0053266264066 Irish pancakes 86.47
+0 irish-pancakes 86.47
+1 (4)0017034020041 Cucumbers in Brine 
+3 PRIX PROMOTION  62.08
+0 cucumbers-in-brine 62.08
+1 (4)0085206727552 Sicilian Lemon Curd 56.21
+0 creme-de-citron 56.21

@@ -1,0 +1,15 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Ain Sebaa
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-04-17 15:04:35 81 93 8100
+1 (7)0058220000003 Saure Sahne 10% Fett 3.73
+1 (6)0058300462196 Tacos tout plat 14.72
+0 saure-sahne 18.45
+1 (5)0033844003913 Roasted garlic 79.78
+1 (2)0033946971355 Chicken arrabbiata
+3 6 x 8.68 52.08
+0 roasted-garlic 131.86
+1 (1)0071962195509 Organic Baby Arugula 39.75
+0 salads 39.75

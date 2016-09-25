@@ -1,0 +1,19 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Route Agouraï 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2016-06-20 14:06:03 96 108 9600
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (3)0043647680037 Lemon Curd
+3 8 x 100.47 803.76
+0 lemon-curd 803.76
+1 (3)0093707051017 Wafers alla Nocciola 62.07
+1 (5)0093707051024 Wafers alla Vaniglia 29.15
+0 waffles 91.22
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33
+1 (4)0098099924863 Underwood
+3 7 x 41.43 290.01
+0 fresh-dates 290.01

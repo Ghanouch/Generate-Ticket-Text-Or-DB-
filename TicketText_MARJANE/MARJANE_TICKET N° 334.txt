@@ -1,0 +1,9 @@
+1 (9)0048500008386 Tropicana Cranberry 79.13
+1 (1)0048500018347 Jus d'orange 10.51
+0 juice-beverage 89.64
+1 (4)0055742586398 Medium Cheddar 63.04
+0 medium-cheddar 63.04
+1 (4)0082011570710 Thin mints 47.67
+1 (8)0082011570727 Samoas
+3 10 x 32.21 322.1
+0 thin-mints 369.77

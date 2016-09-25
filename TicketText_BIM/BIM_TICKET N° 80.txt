@@ -1,0 +1,32 @@
+0 BIM STORES 
+0 Magasin Azemmour
+0 Route de Azemmour lotissement badiaa 
+0 El Jadida
+2 2001-06-24 N° ticket: 0080
+2 TIME: 15:06:17
+3 5 X 95.21
+1 7Up 2% 476.05
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+1 7Up 2% 74.8
+1 Medium Cheddar 8% 63.04
+1 Caramel Popcorn 8% 102.03
+1 Dentyne fire 8% 59.56
+1 Orange Blossom Water 13% 58.92
+1 Chips de légumes 13% 28.67
+1 Breast fillets 2% 22.03
+1 Organic Mac 8% 78.73
+1 Truvia 2% 17.87
+1 Salt 15% 6.29
+0 TOTAL 1 097.17 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 097.21 DH 
+0 Dont TVA  41.12 DH
+0 ESPECES 1147
+0 RENDU 50 
+0 NOMBRE ARTICLES  13
+0 M:4900 P:539 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

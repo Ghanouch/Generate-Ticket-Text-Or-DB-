@@ -1,0 +1,40 @@
+0 BIM STORES 
+0 Magasin Anfa
+0 Route de Anfa lotissement badiaa 
+0 Casablanca
+2 2000-04-01 N° ticket: 0209
+2 TIME: 08:04:42
+1 Veggies Kale Blazer 13% 57.4
+1 Green Machine 2% 50.57
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+1 Original Syrup 15% 85.55
+1 Cinnamon sugar 15% 12.34
+3 2 X 53.4
+1 Pure maple syrup 5% 106.8
+1 guava nectar 2% 78.13
+1 Maple Syrup 2% 35.03
+1 Kirsch 15% 109.34
+1 Very vanilla Soymilk 15% 48.47
+1 Haricots blancs 15% 11.67
+1 Sunflower seeds 15% 66.78
+1 Fruit tea sampler  8% 30.25
+1 Stax barbecue 2% 27.76
+3 4 X 102.66
+1 Pringles Original 10% 410.64
+3 7 X 10.55
+1 Ritz Bits Cheese 15% 73.85
+1 Wheat Thins Original 15% 81.78
+1 Fat Free Milk 10% 40.55
+0 TOTAL 1 398.29 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 398.33 DH 
+0 Dont TVA  86.16 DH
+0 ESPECES 1448
+0 RENDU 50 
+0 NOMBRE ARTICLES  19
+0 M:3800 P:418 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

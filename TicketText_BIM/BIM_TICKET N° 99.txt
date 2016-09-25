@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2003-08-20 N° ticket: 0099
+2 TIME: 16:08:38
+1 Very vanilla Soymilk 15% 48.47
+1 Olive Bruschetta 8% 25.11
+1 Salsa de mostaza 1% 23
+1 Flat Leaf Parsley 0% 65.26
+1 Mixed peppers 8% 43.55
+1 Sauce bolognaise 2% 96.27
+1 Salsa de mostaza 1% 74.58
+1 Reese minis 13% 23.02
+1 Riz basmati 10% 22.53
+1 Yogurt 2% 79.32
+1 Activia  10% 103.85
+0 TOTAL 604.96 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  605 DH 
+0 Dont TVA  29.95 DH
+0 ESPECES 654
+0 RENDU 50 
+0 NOMBRE ARTICLES  11
+0 M:8700 P:957 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

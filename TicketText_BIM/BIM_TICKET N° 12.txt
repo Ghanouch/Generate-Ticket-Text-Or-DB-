@@ -1,0 +1,10 @@
+0 BIM STORES 
+0 Magasin Casa
+0 Route de Casa lotissement badiaa 
+0 Casablanca
+2 2004-10-04 N° ticket: 0012
+2 TIME: 19:10:43
+1 Original Beef Stick 8% 99.75
+1 Lemongrass Paste 10% 107.72
+1 Coffee-mate 10% 49.25
+1 Spam Single Classic 10% 103.53

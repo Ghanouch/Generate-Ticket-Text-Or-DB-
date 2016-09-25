@@ -1,0 +1,20 @@
+1 (3)0084909003904 Palm Sugar 57.71
+0 palm-sugar 57.71
+1 (8)0021000604647 Kraft singles
+3 6 x 28.97 173.82
+1 (7)0033676533128 Chili beef nachos 0.4
+1 (4)0042200006024 Nudie - Orange Juice 77.4
+1 (7)0042222870009 Turkey Bacon 108.58
+1 (5)0043000204337 Vanilla 20.66
+0 desserts 380.86
+1 (4)0012000024535 Citrus Green Tea 99.46
+0 tea-drinks 99.46
+1 (8)0033383655857 Grape Tomatoes 75.72
+0 grape-tomatoes 75.72
+1 (6)0070796130090 Pappardelle 51.47
+1 (4)0070796903120 Plain bread crumbs 104.95
+0 pappardelle 156.42
+1 (3)0096619850037 miel 58.15
+0 liquid-honey 58.15
+1 (2)0052296088390 4 all butter muffins 15.41
+0 muffins 15.41

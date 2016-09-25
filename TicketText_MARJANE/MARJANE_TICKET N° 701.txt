@@ -1,0 +1,12 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Ain Sebaa
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2010-12-22 19:12:10 17 29 1700
+1 (9)0080989489394 Hot Beef Curry 15.27
+0 hot-beef-curry 15.27
+1 (5)0050000301621 Coffee-mate 49.25
+0 coffee-creamer 49.25
+1 (7)0011110862815 Pumpkin Seed Pecan 70.54
+0 pumpkin-seed-pecan 70.54

@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Mohammedia
+0 Route de Mohammedia lotissement badiaa 
+0 Mohammedia
+2 2013-10-03 N° ticket: 0241
+2 TIME: 09:10:17
+1 Veggies Kale Blazer 13% 57.4
+1 Green Machine 2% 50.57
+1 Simply Ruffles 13% 98.28
+1 Sea Salt Potato Chips 10% 106.51
+1 Sea Salt Potato Chips 10% 23.3
+1 Sea Salt Potato Chips 10% 98.54
+1 lentilles vertes  2% 42.94
+1 Rose Water 13% 112.93
+1 Pineapple Topping 0% 68.64
+1 cut mixed peel 20% 118.08
+0 TOTAL 777.19 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  777.23 DH 
+0 Dont TVA  73.17 DH
+0 ESPECES 827
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:5600 P:616 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

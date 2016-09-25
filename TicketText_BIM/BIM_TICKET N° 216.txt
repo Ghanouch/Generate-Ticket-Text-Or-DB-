@@ -1,0 +1,19 @@
+1 Strawberry Lemonade 20% 45.62
+1 Safeway apple juice 10% 106.71
+1 100% Orange Juice 8% 47.49
+1 Juicy Juice Apple 15% 16.09
+1 apple juice 2% 58.27
+1 Cream of Coconut 20% 84.08
+1 Semolina 8% 3.21
+0 TOTAL 361.47 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  361.51 DH 
+0 Dont TVA  38.32 DH
+0 ESPECES 411
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:1200 P:132 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

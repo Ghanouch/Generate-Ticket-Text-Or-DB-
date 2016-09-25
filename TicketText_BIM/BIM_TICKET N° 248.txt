@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Bourgogne
+0 Route de Bourgogne lotissement badiaa 
+0 Casablanca
+2 2010-08-11 N° ticket: 0248
+2 TIME: 12:08:03
+3 4 X 40.44
+1 Organic Chia Seed 1% 161.76
+1 Citrus Green Tea 8% 99.46
+1 Manuka honey 0% 29.73
+1 Bird's Eye Chillies 1% 11.63
+1 Red Chillies 13% 63.66
+1 Thai chicken soup 15% 64.77
+1 Finger Chillies 13% 73.43
+1 Palak Paneer 13% 52.56
+1 bird eye chillies 13% 46.04
+0 TOTAL 603.04 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  603.08 DH 
+0 Dont TVA  43.44 DH
+0 ESPECES 653
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:4400 P:484 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

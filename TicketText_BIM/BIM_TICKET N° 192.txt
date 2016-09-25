@@ -1,0 +1,14 @@
+0 BIM STORES 
+0 Magasin Sidi Slimane
+0 Route de Sidi Slimane lotissement badiaa 
+0 Sidi Slimane
+2 2007-12-15 N° ticket: 0192
+2 TIME: 11:12:50
+1 Venison Leg/Steaks 15% 19.09
+1 Original Salsitas 13% 85.91
+1 Pineapple Topping 0% 68.64
+1 Pear Cider 13% 67.48
+1 Peace Tea 15% 104.79
+1 Cornichoner 13% 94.28
+3 2 X 99.35
+1 Pretzel Crisps 15% 198.7

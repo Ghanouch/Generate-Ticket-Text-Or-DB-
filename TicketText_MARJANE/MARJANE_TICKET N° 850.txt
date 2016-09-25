@@ -1,0 +1,6 @@
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice 106.71
+1 (4)0025000056031 100% Orange Juice 47.49
+1 (6)0028000984434 Juicy Juice Apple 16.09
+1 (2)0028396028738 apple juice 58.27
+0 fruit-juices 274.18

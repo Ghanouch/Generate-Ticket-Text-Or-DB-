@@ -1,0 +1,11 @@
+1 (9)0000030053014 Bonbon Vichy 90.3
+1 (8)0000790310013 Sour Fruit Gummies 37.56
+1 (7)0000790310020 Jelly Fish 32.4
+1 (1)0000790310044 Color bombe
+3 9 x 12.07 108.63
+0 sugary-snacks 268.89
+1 (8)0028400071321 Simply Ruffles 98.28
+1 (5)0000548708612 Sea Salt Potato Chips 106.51
+1 (5)0000666656682 Sea Salt Potato Chips 23.3
+1 (5)0000765847165 Sea Salt Potato Chips 98.54
+0 chips-and-fries 326.63

@@ -1,0 +1,20 @@
+0 BIM STORES 
+0 Magasin Hay Hassani
+0 Route de Hay Hassani lotissement badiaa 
+0 Casablanca
+2 2013-11-30 N° ticket: 0226
+2 TIME: 11:11:01
+1 pringles 13% 60.01
+1 pringles origional 8% 92.06
+3 10 X 53.7
+1 earl grey 0% 537
+1 Cornichoner 13% 94.28
+1 Pretzel Crisps 15% 99.35
+1 Tomato ketchup 8% 100.26
+3 5 X 18.38
+1 Organic Ketchup 8% 91.9
+1 Lait au chocolat 15% 89.15
+1 Linguine 15% 18.23
+1 Ordi 15% 88.83
+3 3 X 101.58
+1 Parmesan 2% 304.74

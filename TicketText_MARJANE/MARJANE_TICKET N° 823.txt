@@ -1,0 +1,10 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Safi 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-06-04 16:06:48 10 22 1000
+1 (6)0088702015652 Raspberry preserve 69.48
+0 raspberry-preserve 69.48
+1 (6)0013000451604 vegetarian bean 51.01
+0 baked-beans 51.01

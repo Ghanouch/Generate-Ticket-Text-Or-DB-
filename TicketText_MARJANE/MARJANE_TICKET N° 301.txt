@@ -1,0 +1,19 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Inezgane 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-12-10 16:12:22 77 89 7700
+1 (8)0082592633569 Veggies Kale Blazer
+3 8 x 57.4 459.2
+1 (2)0082592720153 Green Machine 50.57
+0 juices 509.77
+1 (3)0073490125010 Matzos 
+3 PRIX PROMOTION  53.68
+0 matzos 53.68
+1 (5)0050000301621 Coffee-mate 49.25
+0 coffee-creamer 49.25
+1 (4)0002414374482 Scottish shortbread 52.82
+0 scottish-shortbread 52.82
+1 (5)0103942937424 Stringless beans 47.99
+0 stringless-beans 47.99

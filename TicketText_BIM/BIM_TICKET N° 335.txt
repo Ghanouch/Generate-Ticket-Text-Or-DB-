@@ -1,0 +1,32 @@
+0 BIM STORES 
+0 Magasin Casa
+0 Route de Casa lotissement badiaa 
+0 Casablanca
+2 2009-10-18 N° ticket: 0335
+2 TIME: 18:10:01
+1 Veggies Kale Blazer 13% 57.4
+1 Green Machine 2% 50.57
+1 jamon de teruel dop 8% 6.91
+1 mortadella 8% 65.44
+1 tuna steak 8% 72.05
+3 9 X 22.18
+1 chocolate fudge 10% 199.62
+1 Chicken Korma 2% 78.05
+1 Cran-Apple 5% 14.26
+1 Cranberry Classic 5% 36.53
+1 Cherry Juice Drink 20% 69.01
+1 red pepper powder 13% 112.73
+1 Soft Drink 1% 73.65
+1 Tasty Tartar Sauce 2% 36.91
+0 TOTAL 873.13 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  873.17 DH 
+0 Dont TVA  50.18 DH
+0 ESPECES 923
+0 RENDU 50 
+0 NOMBRE ARTICLES  13
+0 M:5800 P:638 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

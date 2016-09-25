@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin El Jadida
+0 Route de El Jadida lotissement badiaa 
+0 El Jadida
+2 2007-06-25 N° ticket: 0054
+2 TIME: 12:06:11
+3 8 X 66.53
+1 Sweet mango Chutney 0% 532.24
+3 5 X 47.67
+1 Thin mints 8% 238.35
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 Fat Free Milk 10% 40.55
+1 prunes 13% 89.13
+0 TOTAL 1 040.77 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 040.81 DH 
+0 Dont TVA  22.94 DH
+0 ESPECES 1090
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:5100 P:561 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

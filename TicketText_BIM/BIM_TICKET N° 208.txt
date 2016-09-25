@@ -1,0 +1,16 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2010-08-30 N° ticket: 0208
+2 TIME: 12:08:22
+1 Hot Beef Curry 0% 15.27
+1 Flour Tortillas 13% 60.03
+1 Pumpkin Seed Pecan 20% 70.54
+3 6 X 66.78
+1 Sunflower seeds 15% 400.68
+1 Pizza Parlanno 2% 71.26
+1 Mac 'n Cheese 1% 10.11
+1 Cheesy Pizza 8% 77.59
+1 Buttermilk Pancake 20% 42.05
+1 slim jim 20% 90.3

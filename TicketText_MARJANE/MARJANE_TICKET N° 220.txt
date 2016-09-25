@@ -1,0 +1,15 @@
+1 (4)0053859201111 Guava 35.56
+1 (7)0053859661106 Mango 60.5
+0 guava-juice 96.06
+1 (3)0043647680037 Lemon Curd 100.47
+0 lemon-curd 100.47
+1 (5)0050000301621 Coffee-mate 49.25
+0 coffee-creamer 49.25
+1 (8)0014922833828 Amandino blanches 86.12
+0 steak-pie 86.12
+1 (7)0099482404819 Organic peanut sauce
+3 5 x 97.98 489.9
+0 peanut-sauce 489.9
+1 (4)0012860511317 Semolina 
+3 PRIX PROMOTION  2.21
+0 semolina 2.21

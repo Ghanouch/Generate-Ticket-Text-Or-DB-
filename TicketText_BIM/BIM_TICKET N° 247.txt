@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Roches Noires
+0 Route de Roches Noires lotissement badiaa 
+0 Casablanca
+2 2009-04-22 N° ticket: 0247
+2 TIME: 20:04:24
+1 Tropicana Cranberry 0% 79.13
+1 Jus d'orange 1% 10.51
+3 6 X 96.76
+1 Kosher Dills 5% 580.56
+1 Cornichons 20% 62.87
+1 Moutarde de Dijon 5% 61.19
+1 Pumpkin Seed Pecan 20% 70.54
+1 prunes 13% 89.13
+0 TOTAL 953.93 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  953.97 DH 
+0 Dont TVA  40.11 DH
+0 ESPECES 1003
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:9400 P:1034 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

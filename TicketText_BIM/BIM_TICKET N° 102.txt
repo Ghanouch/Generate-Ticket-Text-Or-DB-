@@ -1,0 +1,34 @@
+0 BIM STORES 
+0 Magasin Rabat Hassan
+0 Route de Rabat Hassan lotissement badiaa 
+0 Rabat
+2 2000-04-25 N° ticket: 0102
+2 TIME: 08:04:21
+1 Guava 8% 35.56
+1 Mango 20% 60.5
+1 Tome fraîche 8% 54.01
+1 Pilons de poulet 15% 34.11
+1 Norwegian Jarlsberg 1% 6.92
+1 Lifeway smoothie 8% 99.4
+3 10 X 99.83
+1 1% lowfat milk 1% 998.3
+1 Rice flakes sheet 8% 101.71
+1 Botan Rice Candy 0% 50.32
+3 6 X 72.21
+1 Spicy bean sauce 8% 433.26
+1 Chips de légumes 13% 28.67
+1 Breast fillets 2% 22.03
+1 Organic Mac 8% 78.73
+1 Truvia 2% 17.87
+0 TOTAL 2 021.39 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 021.43 DH 
+0 Dont TVA  52.38 DH
+0 ESPECES 2071
+0 RENDU 50 
+0 NOMBRE ARTICLES  14
+0 M:1300 P:143 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

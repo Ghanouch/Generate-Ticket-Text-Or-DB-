@@ -1,0 +1,20 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2009-08-11 N° ticket: 0215
+2 TIME: 19:08:24
+1 Guava 8% 35.56
+1 Mango 20% 60.5
+1 Kosher Dills 5% 96.76
+1 Cornichons 20% 62.87
+1 Moutarde de Dijon 5% 61.19
+1 Olive Bruschetta 8% 25.11
+1 Rollmop Herrings 10% 24.7
+3 8 X 101.87
+1 Creamy Chicken Pie 15% 814.96
+1 Fruit Spread 2% 18.86
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 Spam 5% 69.82
+1 Dattes Medjool Dates 13% 21.11

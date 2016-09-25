@@ -1,0 +1,10 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Béni Mellal 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2015-04-25 11:04:02 52 64 5200
+1 (2)0031215611170 Tasty Tartar Sauce 36.91
+0 tartar-sauce 36.91
+1 (4)0045058439123 german smoked cheese 21.18
+0 smoked-cheese 21.18

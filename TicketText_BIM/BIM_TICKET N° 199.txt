@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Sidi Moumen
+0 Route de Sidi Moumen lotissement badiaa 
+0 Casablanca
+2 2014-10-25 N° ticket: 0199
+2 TIME: 12:10:56
+1 Flour Tortillas 13% 60.03
+3 8 X 79.13
+1 Tropicana Cranberry 0% 633.04
+1 Jus d'orange 1% 10.51
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 hot fudge topping 0% 94.65
+1 CHOCLATE BROWNIE 5% 36.47
+1 Canned Pineapple 5% 64.69
+0 TOTAL 1 039.89 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 039.93 DH 
+0 Dont TVA  17.29 DH
+0 ESPECES 1089
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:4500 P:495 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

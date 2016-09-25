@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin Ain Borja
+0 Route de Ain Borja lotissement badiaa 
+0 Casablanca
+2 2014-02-20 N° ticket: 0221
+2 TIME: 18:02:36
+1 Pure Honey 0% 59.65
+1 Chicken Saaq Masala 10% 93.54
+3 6 X 65.1
+1 Carb Intercept 8% 390.6
+1 Vitamin D3 20% 91.73
+1 Shrimp fried rice 8% 38.59
+1 Traditional Chex Mix 0% 63.09

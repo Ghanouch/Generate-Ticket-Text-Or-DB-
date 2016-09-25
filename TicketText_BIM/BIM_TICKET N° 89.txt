@@ -1,0 +1,14 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2013-06-30 N° ticket: 0089
+2 TIME: 18:06:33
+1 Caramel Dessert 2% 32.33
+1 Salsa de mostaza 1% 23
+1 Flat Leaf Parsley 0% 65.26
+1 Mixed peppers 8% 43.55
+1 Sauce bolognaise 2% 96.27
+1 Salsa de mostaza 1% 74.58
+1 Flat Leaf Parsley 0% 7.81
+1 Mixed peppers 8% 26.86

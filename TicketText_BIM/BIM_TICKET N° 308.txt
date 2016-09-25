@@ -1,0 +1,19 @@
+0 BIM STORES 
+0 Magasin Sidi Belyout
+0 Route de Sidi Belyout lotissement badiaa 
+0 Casablanca
+2 2010-06-14 N° ticket: 0308
+2 TIME: 09:06:48
+1 Bonbon Vichy 0% 90.3
+1 Sour Fruit Gummies 13% 37.56
+1 Jelly Fish 20% 32.4
+1 Color bombe 1% 12.07
+1 30 Panach' Fruits 1% 15.92
+1 Stem Ginger Dunkers 8% 83.64
+1 M&S Chicken Penang 0% 84.43
+1 A&W Rootbeer 13% 97.63
+1 Haricots blancs 15% 11.67
+1 Spicy bean sauce 8% 72.21
+1 CHOCLATE BROWNIE 5% 36.47
+3 2 X 64.69
+1 Canned Pineapple 5% 129.38

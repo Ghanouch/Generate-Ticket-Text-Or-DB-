@@ -1,0 +1,5 @@
+1 (7)0058220000003 Saure Sahne 10% Fett 3.73
+1 (6)0058300462196 Tacos tout plat 14.72
+0 saure-sahne 18.45
+1 (4)0030891052819 Rice flakes sheet 101.71
+0 rice-flakes-sheet 101.71

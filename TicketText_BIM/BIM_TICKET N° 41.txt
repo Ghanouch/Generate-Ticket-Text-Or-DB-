@@ -1,0 +1,18 @@
+0 BIM STORES 
+0 Magasin Sidi Maârouf
+0 Route de Sidi Maârouf lotissement badiaa 
+0 Casablanca
+2 2009-04-04 N° ticket: 0041
+2 TIME: 13:04:40
+1 Saussice amore 2% 27.49
+1 Guava 8% 35.56
+1 Mango 20% 60.5
+1 Bonbon Vichy 0% 90.3
+1 Original Beef Stick 8% 99.75
+1 Roasted garlic 10% 79.78
+1 Tome fraîche 8% 54.01
+3 9 X 34.11
+1 Pilons de poulet 15% 306.99
+1 Norwegian Jarlsberg 1% 6.92
+1 Lifeway smoothie 8% 99.4
+1 Rose Water 13% 112.93

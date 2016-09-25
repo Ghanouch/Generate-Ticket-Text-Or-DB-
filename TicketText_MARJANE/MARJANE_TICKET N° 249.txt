@@ -1,0 +1,7 @@
+1 (7)0058220000003 Saure Sahne 10% Fett
+3 6 x 3.73 22.38
+1 (6)0058300462196 Tacos tout plat 14.72
+0 saure-sahne 37.1
+1 (8)0049309132630 Cornichoner 94.28
+1 (6)0049508003731 Pretzel Crisps 99.35
+0 attiksgurka 193.63

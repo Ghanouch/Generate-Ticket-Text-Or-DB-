@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin Fquih ben Salah
+0 Route de Fquih ben Salah lotissement badiaa 
+0 Fquih ben Salah
+2 2011-08-19 N° ticket: 0235
+2 TIME: 15:08:18
+1 Beef broth 20% 39.64
+1 Rigatoni  10% 107.57
+1 Organic peanut sauce 20% 97.98
+1 Instant Dry Yeast 10% 93.95
+1 Bayani brew 8% 68.91
+1 4 all butter muffins 2% 15.41
+1 Peanut butter bliss 15% 6.99

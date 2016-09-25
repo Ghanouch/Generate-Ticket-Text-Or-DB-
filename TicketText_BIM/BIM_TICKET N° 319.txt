@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin Roches Noires
+0 Route de Roches Noires lotissement badiaa 
+0 Casablanca
+2 2008-02-21 N° ticket: 0319
+2 TIME: 20:02:51
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+1 Original Syrup 15% 85.55
+1 Cinnamon sugar 15% 12.34
+1 Hot Cocoa classic 5% 39.88
+3 8 X 112.93
+1 Rose Water 13% 903.44
+1 Pinot noir 1% 66.11
+0 TOTAL 1 178.7 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 178.74 DH 
+0 Dont TVA  30.68 DH
+0 ESPECES 1228
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:8500 P:935 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

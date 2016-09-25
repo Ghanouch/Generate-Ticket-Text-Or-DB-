@@ -1,0 +1,15 @@
+1 (5)0015778037830 Lemongrass Paste 107.72
+0 lemongrass-paste 107.72
+1 (5)0033844003913 Roasted garlic
+3 7 x 79.78 558.46
+1 (2)0033946971355 Chicken arrabbiata 8.68
+0 roasted-garlic 567.14
+1 (4)0012000024535 Citrus Green Tea 99.46
+0 tea-drinks 99.46
+1 (2)0036192105162 Fruit Spread 18.86
+0 fruit-spreads 18.86
+1 (4)0047469042912 Carb Intercept 65.1
+1 (7)0047469058890 Vitamin D3
+3 7 x 91.73 642.11
+1 (4)0070077001064 Shrimp fried rice 38.59
+0 dietary-supplements 745.8

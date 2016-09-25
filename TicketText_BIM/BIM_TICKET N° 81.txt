@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Ain Chock
+0 Route de Ain Chock lotissement badiaa 
+0 Casablanca
+2 2006-12-23 N° ticket: 0081
+2 TIME: 09:12:08
+1 Swiss thin 15% 27.9
+1 Traditional Chex Mix 0% 63.09
+1 Tomato ketchup 8% 100.26
+1 Organic Ketchup 8% 18.38
+1 Lait au chocolat 15% 89.15
+3 5 X 18.23
+1 Linguine 15% 91.15
+1 Ordi 15% 88.83
+1 Parmesan 2% 101.58
+3 4 X 43.69
+1 Thé vert menthe 15% 174.76
+0 TOTAL 755.1 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  755.14 DH 
+0 Dont TVA  45.71 DH
+0 ESPECES 805
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:8200 P:902 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

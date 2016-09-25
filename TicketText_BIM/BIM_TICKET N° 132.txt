@@ -1,0 +1,26 @@
+0 BIM STORES 
+0 Magasin El Jadida
+0 Route de El Jadida lotissement badiaa 
+0 El Jadida
+2 2007-02-21 N° ticket: 0132
+2 TIME: 16:02:13
+1 Thé vert Nature 8% 70.72
+1 Earl grey tea  5% 51.71
+1 mr noodle 15% 98.69
+1 Bourbon Biscuits 5% 82.61
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 Cornichoner 13% 94.28
+1 Pretzel Crisps 15% 99.35
+0 TOTAL 637.86 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  637.9 DH 
+0 Dont TVA  53.78 DH
+0 ESPECES 687
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:9700 P:1067 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

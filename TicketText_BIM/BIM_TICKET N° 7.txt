@@ -1,0 +1,12 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2010-11-29 N° ticket: 0007
+2 TIME: 19:11:03
+1 Blueberry syrup 15% 41.78
+1 A&W Rootbeer 13% 97.63
+1 Flour Tortillas 13% 60.03
+1 Turkey breast 8% 96.06
+1 hot cocoa 5% 86.99
+1 Coffeemate hazelnut 10% 102.95

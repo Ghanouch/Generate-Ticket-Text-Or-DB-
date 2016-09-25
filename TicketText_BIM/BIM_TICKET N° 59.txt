@@ -1,0 +1,37 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2011-08-25 N° ticket: 0059
+2 TIME: 10:08:52
+1 Medium Cheddar 8% 63.04
+1 Cherry Pie Filling 0% 12.41
+1 lentils 10% 86.93
+1 Sunflower seeds 15% 66.78
+3 2 X 30.25
+1 Fruit tea sampler  8% 60.5
+1 Reese minis 13% 23.02
+1 Riz basmati 10% 22.53
+1 Yogurt 2% 79.32
+1 Activia  10% 103.85
+1 Cran-Apple 5% 14.26
+1 Cranberry Classic 5% 36.53
+1 Cherry Juice Drink 20% 69.01
+1 Pizza Parlanno 2% 71.26
+1 Mac 'n Cheese 1% 10.11
+1 Cheesy Pizza 8% 77.59
+1 Buttermilk Pancake 20% 42.05
+1 slim jim 20% 90.3
+1 slim jims 13% 37.24
+0 TOTAL 966.73 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  966.77 DH 
+0 Dont TVA  86.72 DH
+0 ESPECES 1016
+0 RENDU 50 
+0 NOMBRE ARTICLES  18
+0 M:1600 P:176 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

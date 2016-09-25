@@ -1,0 +1,19 @@
+1 (7)0024000323204 Beef broth 
+3 PRIX PROMOTION  38.64
+1 (5)0024094070244 Rigatoni  107.57
+0 beef-broth 146.21
+1 (3)0073546969232 Redbush Teabags 96.34
+0 teabags 96.34
+1 (7)0074865756648 Reduced fat milk 73.72
+0 reduced-fat-milk 73.72
+1 (1)0083318945104 Bird's Eye Chillies 11.63
+1 (8)0089262933583 Red Chillies 63.66
+1 (6)0089565106725 Thai chicken soup 64.77
+1 (8)0095477868117 Finger Chillies 73.43
+1 (8)0095812734067 Palak Paneer 52.56
+1 (8)0103895885345 bird eye chillies 46.04
+0 chillies 312.09
+1 (6)0021908459899 Peanut butter bliss 6.99
+0 peanut-butter-bliss 6.99
+1 (4)0012860511317 Semolina 3.21
+0 semolina 3.21

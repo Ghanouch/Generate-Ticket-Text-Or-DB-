@@ -1,0 +1,11 @@
+1 (6)0026400803706 Cottage Cheese 4.01
+1 (2)0026595786891 Tropik splash 3.16
+1 (2)0027000009338 Blue Bonnet 82.35
+0 cottage-cheese 89.52
+1 (2)0018802924423 clementine juice 70.18
+0 venison-burger 70.18
+1 (6)0012985528556 Kirsch 109.34
+0 eau-de-vie 109.34
+1 (3)0073007106730 Prosciutto
+3 8 x 66.6 532.8
+0 prosciutto 532.8

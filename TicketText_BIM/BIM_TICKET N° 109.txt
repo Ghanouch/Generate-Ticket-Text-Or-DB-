@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Maârif
+0 Route de Maârif lotissement badiaa 
+0 Casablanca
+2 2010-08-07 N° ticket: 0109
+2 TIME: 12:08:00
+1 Chicken Korma 2% 78.05
+1 chocolate fudge 10% 22.18
+1 Beef broth 20% 39.64
+1 Rigatoni  10% 107.57
+1 Haricots blancs 15% 11.67
+1 Bird's Eye Chillies 1% 11.63
+1 Red Chillies 13% 63.66
+1 Thai chicken soup 15% 64.77
+1 Finger Chillies 13% 73.43
+1 Palak Paneer 13% 52.56
+1 bird eye chillies 13% 46.04
+0 TOTAL 571.2 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  571.24 DH 
+0 Dont TVA  57.13 DH
+0 ESPECES 621
+0 RENDU 50 
+0 NOMBRE ARTICLES  11
+0 M:3700 P:407 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

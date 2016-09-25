@@ -1,0 +1,21 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tabriquet 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-06-01 10:06:10 23 35 2300
+1 (5)0081954132617 Salad cream
+3 6 x 84.08 504.48
+0 salad-sauce 504.48
+1 (5)0051500000229 chocolate fudge 22.18
+0 chocolate-fudge 22.18
+1 (5)0098968816353 Chicken Saaq Masala 93.54
+0 fresh-foods 93.54
+1 (6)0021130506279 Mini penne 61.06
+1 (2)0021130512652 Balsamic garlic 53.95
+0 penne 115.01
+1 (7)0024000323204 Beef broth 39.64
+1 (5)0024094070244 Rigatoni  107.57
+0 beef-broth 147.21
+1 (9)0051500000267 Strawberry topping 99.74
+0 strawberry-topping 99.74

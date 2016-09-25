@@ -1,0 +1,17 @@
+1 (7)0058220000003 Saure Sahne 10% Fett
+3 4 x 3.73 14.92
+1 (6)0058300462196 Tacos tout plat 14.72
+0 saure-sahne 29.64
+1 (2)0059527305983 True To Nature 
+3 PRIX PROMOTION  57.56
+0 snack-bar 57.56
+1 (7)0009800801107 Mini Cups 45.79
+1 (7)0009800892204 Nutella
+3 4 x 62.95 251.8
+1 (6)0010000002218 Ikea Lachs 95.54
+0 breakfasts 393.13
+1 (6)0059491000600 mr noodle 98.69
+0 pates 98.69
+1 (5)0103942937424 Stringless beans
+3 2 x 47.99 95.98
+0 stringless-beans 95.98

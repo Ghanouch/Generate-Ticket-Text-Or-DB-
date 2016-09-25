@@ -1,0 +1,31 @@
+0 BIM STORES 
+0 Magasin Beni Mellal
+0 Route de Beni Mellal lotissement badiaa 
+0 Beni Mellal
+2 2004-02-25 N° ticket: 0179
+2 TIME: 16:02:29
+3 6 X 35.56
+1 Guava 8% 213.36
+3 9 X 60.5
+1 Mango 20% 544.5
+3 8 X 55.72
+1 Italian Dry Salame 15% 445.76
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 Fat Free Milk 10% 40.55
+1 Prosciutto 5% 66.6
+1 german smoked cheese 8% 21.18
+0 TOTAL 1 628.87 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 628.91 DH 
+0 Dont TVA  48.37 DH
+0 ESPECES 1678
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:3700 P:407 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

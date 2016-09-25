@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin El Fida
+0 Route de El Fida lotissement badiaa 
+0 Casablanca
+2 2012-04-22 N° ticket: 0096
+2 TIME: 18:04:01
+1 Sen-cha 5% 84.86
+1 Tropicana Cranberry 0% 79.13
+1 Jus d'orange 1% 10.51
+3 9 X 69.48
+1 Raspberry preserve 15% 625.32
+1 Grape 20% 60.49
+1 Peanut butter bliss 15% 6.99

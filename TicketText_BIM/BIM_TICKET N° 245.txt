@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2000-08-03 N° ticket: 0245
+2 TIME: 08:08:49
+1 Venison Leg/Steaks 15% 19.09
+1 prunes 13% 89.13
+1 Green food color 15% 85.23
+3 8 X 40.97
+1 Red food color 10% 327.76
+0 TOTAL 521.21 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  521.25 DH 
+0 Dont TVA  27.59 DH
+0 ESPECES 571
+0 RENDU 50 
+0 NOMBRE ARTICLES  4
+0 M:1100 P:121 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

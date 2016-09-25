@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Mers Sultan
+0 Route de Mers Sultan lotissement badiaa 
+0 Casablanca
+2 2014-08-14 N° ticket: 0078
+2 TIME: 20:08:54
+3 9 X 36.22
+1 Garden peas 13% 325.98
+1 fine beans 5% 92.95
+3 8 X 25.11
+1 Olive Bruschetta 8% 200.88
+1 Turkey breast 8% 96.06
+1 Fusilli 5% 96.82
+3 9 X 12.04
+1 Chicken Chow Mein 1% 108.36
+1 Fibre menu bleu 20% 83.2
+0 TOTAL 1 004.25 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 004.29 DH 
+0 Dont TVA  36.16 DH
+0 ESPECES 1054
+0 RENDU 50 
+0 NOMBRE ARTICLES  7
+0 M:1300 P:143 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

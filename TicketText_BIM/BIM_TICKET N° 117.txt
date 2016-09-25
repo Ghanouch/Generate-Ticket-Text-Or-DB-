@@ -1,0 +1,11 @@
+1 7Up 2% 95.21
+1 Pepsi 20% 21.79
+1  pure honey 0% 87.39
+1 7Up 2% 74.8
+1 Honey Soy Drink 1% 66.5
+1 Tropicana Cranberry 0% 79.13
+1 Jus d'orange 1% 10.51
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+1 Spicy bean sauce 8% 72.21
+1 Strawberry topping 0% 99.74

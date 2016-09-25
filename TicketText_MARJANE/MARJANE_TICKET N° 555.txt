@@ -1,0 +1,30 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Taza 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-04-21 09:04:03 21 33 2100
+1 (4)0016000002043 Tome fraîche 54.01
+1 (6)0016000006287 Pilons de poulet 34.11
+1 (1)0017063545145 Norwegian Jarlsberg
+3 6 x 6.92 41.52
+1 (4)0017077402354 Lifeway smoothie 99.4
+1 (1)0021130070664 1% lowfat milk 99.83
+0 dairies 328.87
+1 (9)0011152027869 Botan Rice Candy 50.32
+0 rice-candy 50.32
+1 (3)0050000111879 hot cocoa 86.99
+1 (5)0050000127344 Coffeemate hazelnut 102.95
+0 hot-cocoa-mix 189.94
+1 (4)0098099924863 Underwood 41.43
+0 fresh-dates 41.43
+1 (4)0012142117713 Tomato ketchup 100.26
+1 (4)0055860064432 Organic Ketchup 18.38
+1 (6)0055872105186 Lait au chocolat 
+3 PRIX PROMOTION  88.15
+1 (6)0055900001084 Linguine 18.23
+0 tomato-ketchup 225.02
+1 (6)0052100070889 Green food color
+3 4 x 85.23 340.92
+1 (5)0052100070919 Red food color 40.97
+0 food-additives 381.89

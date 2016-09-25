@@ -1,0 +1,4 @@
+1 (7)0074865756648 Reduced fat milk 73.72
+0 reduced-fat-milk 73.72
+1 (6)0013000451604 vegetarian bean 51.01
+0 baked-beans 51.01

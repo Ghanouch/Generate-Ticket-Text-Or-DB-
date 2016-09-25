@@ -1,0 +1,36 @@
+0 BIM STORES 
+0 Magasin Aïn Sebaâ-Hay Mohammadi
+0 Route de Aïn Sebaâ-Hay Mohammadi lotissement badiaa 
+0 Casablanca
+2 2014-02-25 N° ticket: 0175
+2 TIME: 14:02:08
+1 Veggies Kale Blazer 13% 57.4
+3 4 X 50.57
+1 Green Machine 2% 202.28
+1 Sweet mango Chutney 0% 66.53
+1 Saure Sahne 10% Fett 20% 3.73
+1 Tacos tout plat 15% 14.72
+1 Sauce de Poisson 2% 6.31
+1 mr noodle 15% 98.69
+1 Pappardelle 15% 51.47
+1 Plain bread crumbs 8% 104.95
+3 8 X 100.26
+1 Tomato ketchup 8% 802.08
+1 Organic Ketchup 8% 18.38
+1 Lait au chocolat 15% 89.15
+1 Linguine 15% 18.23
+1 Ordi 15% 88.83
+3 3 X 101.58
+1 Parmesan 2% 304.74
+0 TOTAL 1 927.49 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 927.53 DH 
+0 Dont TVA  73.99 DH
+0 ESPECES 1977
+0 RENDU 50 
+0 NOMBRE ARTICLES  15
+0 M:6400 P:704 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

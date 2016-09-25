@@ -1,0 +1,25 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2007-12-12 N° ticket: 0063
+2 TIME: 20:12:21
+3 9 X 9.47
+1 2 salmon fillets 2% 85.23
+1 Lipton soup 5% 88.79
+1 Tomato Alfredo 8% 82.94
+3 8 X 33.38
+1 Royal chocolaté 8% 267.04
+1 Chicken Saaq Masala 10% 93.54
+0 TOTAL 617.54 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  617.58 DH 
+0 Dont TVA  21.53 DH
+0 ESPECES 667
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:4000 P:440 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

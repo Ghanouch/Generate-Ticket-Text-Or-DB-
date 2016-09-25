@@ -1,0 +1,21 @@
+1 (9)0081926856254 Pure Honey
+3 9 x 59.65 536.85
+0 miels 536.85
+1 (1)0071962195509 Organic Baby Arugula
+3 5 x 39.75 198.75
+0 salads 198.75
+1 (5)0070157888646 Crumbled Feta Cheese 66.08
+0 feta-cheese 66.08
+1 (6)0000000024600 Filet de bœuf 109.28
+0 filet-de-boeuf 109.28
+1 (5)0073490125126 Vinaigre basalmic 62.06
+1 (5)0073491024015 Crème Caramel Flan 
+3 PRIX PROMOTION  3.17
+1 (6)0073534688833 Empress grey teabags 37.93
+0 vinegars 103.16
+1 (6)0070796130090 Pappardelle 51.47
+1 (4)0070796903120 Plain bread crumbs 104.95
+0 pappardelle 156.42
+1 (9)0051500000489 hot fudge topping
+3 8 x 94.65 757.2
+0 hot-fudge-topping 757.2

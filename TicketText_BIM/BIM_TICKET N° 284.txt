@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Aïn Sebaâ-Hay Mohammadi
+0 Route de Aïn Sebaâ-Hay Mohammadi lotissement badiaa 
+0 Casablanca
+2 2007-04-18 N° ticket: 0284
+2 TIME: 19:04:30
+3 4 X 80.03
+1 Carbonara 8% 320.12
+1 Corn meal 5% 71.28
+1 Roasted garlic 10% 79.78
+1 Chicken arrabbiata 2% 8.68
+1 miel 5% 58.15
+1 Organic peanut sauce 20% 97.98
+1 Soursop Juice 5% 32.4
+1 Pate de curry vert 15% 30.92
+0 TOTAL 699.31 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  699.35 DH 
+0 Dont TVA  41.42 DH
+0 ESPECES 749
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:7900 P:869 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

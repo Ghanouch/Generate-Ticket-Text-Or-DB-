@@ -1,0 +1,26 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Berkane 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-06-06 14:06:31 52 64 5200
+1 (9)0069276120034 Sweet mango Chutney
+3 5 x 66.53 332.65
+0 mango-chutney 332.65
+1 (6)0017000006574 Tomates bio
+3 4 x 30.68 122.72
+1 (2)0027400265051 Country Crock 18.84
+1 (7)0033776011703 Earth balance 
+3 PRIX PROMOTION  57.94
+1 (5)0033776011895 Buttery spread  44.19
+1 (8)0034500195003 Whipped butter
+3 7 x 6.26 43.82
+1 (7)0034800004005 Kipper Snacks  90.72
+0 spreads 378.23
+1 (5)0050000301621 Coffee-mate
+3 10 x 49.25 492.5
+0 coffee-creamer 492.5
+1 (7)0074865756648 Reduced fat milk 73.72
+0 reduced-fat-milk 73.72
+1 (7)0017421387183 cut mixed peel 118.08
+0 peels 118.08

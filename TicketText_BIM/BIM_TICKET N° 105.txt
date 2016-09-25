@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Roches Noires
+0 Route de Roches Noires lotissement badiaa 
+0 Casablanca
+2 2014-10-04 N° ticket: 0105
+2 TIME: 12:10:18
+1 Italian gnocchi 8% 69.08
+1 Strawberry Lemonade 20% 45.62
+1 Safeway apple juice 10% 106.71
+1 100% Orange Juice 8% 47.49
+1 Juicy Juice Apple 15% 16.09
+3 6 X 58.27
+1 apple juice 2% 349.62
+1 planters nut-rition 8% 26.23
+1 Botan Rice Candy 0% 50.32
+1 4 all butter muffins 2% 15.41
+1 Green food color 15% 85.23
+1 Red food color 10% 40.97
+0 TOTAL 852.77 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  852.81 DH 
+0 Dont TVA  46.27 DH
+0 ESPECES 902
+0 RENDU 50 
+0 NOMBRE ARTICLES  11
+0 M:6200 P:682 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,13 @@
+0 BIM STORES 
+0 Magasin Aïn Sebaâ-Hay Mohammadi
+0 Route de Aïn Sebaâ-Hay Mohammadi lotissement badiaa 
+0 Casablanca
+2 2007-10-13 N° ticket: 0124
+2 TIME: 09:10:33
+1 Carbonara 8% 80.03
+1 Corn meal 5% 71.28
+1 Orange Blossom Water 13% 58.92
+1 2 plaice fillets 10% 67.72
+1 Raisin Bran 5% 70.43
+1 Pumpkin Seed Pecan 20% 70.54
+1 Caramel Dessert 2% 32.33

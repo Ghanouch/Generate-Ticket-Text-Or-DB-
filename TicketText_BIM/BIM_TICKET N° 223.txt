@@ -1,0 +1,21 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2002-12-20 N° ticket: 0223
+2 TIME: 18:12:53
+1 Underwood 8% 41.43
+1 Chicken Chow Mein 1% 12.04
+1 Fibre menu bleu 20% 83.2
+0 TOTAL 136.67 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  136.71 DH 
+0 Dont TVA  17.05 DH
+0 ESPECES 186
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:9500 P:1045 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,24 @@
+1 (4)0017082873828 Original Beef Stick 99.75
+0 beef-jerky 99.75
+1 (9)0000030053014 Bonbon Vichy 90.3
+1 (8)0000790310013 Sour Fruit Gummies 37.56
+1 (7)0000790310020 Jelly Fish
+3 6 x 32.4 194.4
+1 (1)0000790310044 Color bombe 12.07
+1 (1)0001046550864 30 Panach' Fruits 15.92
+1 (4)0001181557632 Stem Ginger Dunkers 83.64
+0 sugary-snacks 433.89
+1 (4)0012524702117 Caramel Popcorn
+3 5 x 102.03 510.15
+1 (4)0012546315098 Dentyne fire 59.56
+0 caramel-popcorn 569.71
+1 (9)0011152027869 Botan Rice Candy 50.32
+0 rice-candy 50.32
+1 (5)0032843333137 Breakfast blend 109.26
+1 (9)0033200197140 Ultra Max 
+3 PRIX PROMOTION  77.35
+0 frozen-foods 186.61
+1 (6)0078907470370 Guacachip 66.37
+0 tortilla-chips 66.37
+1 (8)0036431767599 FLAPJACK Mini Bites 48.73
+0 flapjack 48.73

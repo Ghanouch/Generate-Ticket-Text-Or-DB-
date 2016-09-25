@@ -1,0 +1,18 @@
+1 (2)0073836146288 Wholegrain Mustard 56.17
+0 wholegrain-mustard 56.17
+1 (8)0067018025746 sultanas 90.95
+0 sultanas 90.95
+1 (5)0096619527694 Cashews 108.63
+0 cashews 108.63
+1 (4)0072368136028 Olive Bruschetta
+3 4 x 25.11 100.44
+0 bruschetta 100.44
+1 (5)0072935053000 Fat Free Milk 40.55
+0 fat-free-milk 40.55
+1 (8)0041190031177 salt free rice cakes
+3 10 x 85.64 856.4
+0 pierogies 856.4
+1 (6)0052100070889 Green food color
+3 8 x 85.23 681.84
+1 (5)0052100070919 Red food color 40.97
+0 food-additives 722.81

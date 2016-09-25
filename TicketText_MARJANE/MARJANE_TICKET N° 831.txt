@@ -1,0 +1,22 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Khouribga 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2010-02-04 08:02:52 25 37 2500
+1 (9)0081926856254 Pure Honey 59.65
+0 miels 59.65
+1 (4)0055220082060 Carbonara
+3 2 x 80.03 160.06
+0 whole-bean-coffee 160.06
+1 (4)0093966000108 Cream cheese spread
+3 6 x 28.14 168.84
+0 chicken-tikka 168.84
+1 (4)0047469042912 Carb Intercept 65.1
+1 (7)0047469058890 Vitamin D3 91.73
+1 (4)0070077001064 Shrimp fried rice 38.59
+0 dietary-supplements 195.42
+1 (9)0011152027869 Botan Rice Candy 50.32
+0 rice-candy 50.32
+1 (1)0083318945104 Bird's Eye Chillies 11.63
+0 chillies 11.63

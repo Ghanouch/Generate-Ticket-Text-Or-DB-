@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Rabat Agdal
+0 Route de Rabat Agdal lotissement badiaa 
+0 Rabat
+2 2003-02-26 N° ticket: 0085
+2 TIME: 08:02:22
+1 Chair à saucisse 2% 61.31
+3 5 X 83.78
+1 Honey roast ham 15% 418.9
+1 Chair à saucisse 2% 43.75
+1 Applesauce Natural 5% 68.31
+3 3 X 60.49
+1 Grape 20% 181.47
+1 Chips de légumes 13% 28.67
+3 6 X 22.03
+1 Breast fillets 2% 132.18
+1 Organic Mac 8% 78.73
+1 Truvia 2% 17.87
+0 TOTAL 1 031.19 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 031.23 DH 
+0 Dont TVA  36.23 DH
+0 ESPECES 1081
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:5300 P:583 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

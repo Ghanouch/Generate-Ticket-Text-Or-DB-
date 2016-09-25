@@ -1,0 +1,15 @@
+0 BIM STORES 
+0 Magasin Gueliz
+0 Route de Gueliz lotissement badiaa 
+0 Marrakech
+2 2006-10-05 N° ticket: 0001
+2 TIME: 19:10:18
+3 10 X 57.4
+1 Veggies Kale Blazer 13% 574
+1 Green Machine 2% 50.57
+1 Pepsi Max 0% 82.43
+1 Kirsch 15% 109.34
+1 Organic peanut sauce 20% 97.98
+1 Very vanilla Soymilk 15% 48.47
+1 Irish pancakes 13% 86.47
+1 tikka masala sauce 10% 11.85

@@ -1,0 +1,14 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tamesna
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2011-07-31 09:07:05 47 59 4700
+1 (5)0077728558464 Sliced sharp cheddar 36.42
+0 sliced-cheddar 36.42
+1 (2)0104343353757 babycorn 54.2
+0 babycorn 54.2
+1 (2)0080973388540 Chicken Laksa 83.16
+0 chicken-laksa 83.16
+1 (4)0012860511317 Semolina 3.21
+0 semolina 3.21

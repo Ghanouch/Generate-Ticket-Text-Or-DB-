@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2000-06-12 N° ticket: 0234
+2 TIME: 13:06:19
+1 Organic Chia Seed 1% 40.44
+1 Fusilli 5% 96.82
+1 Guers diet tea 2% 43.68
+1 Horseradish Cheddar 15% 37.1
+1 Thick wholemeal 15% 113.53
+0 TOTAL 331.57 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  331.61 DH 
+0 Dont TVA  25.51 DH
+0 ESPECES 381
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:7000 P:770 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

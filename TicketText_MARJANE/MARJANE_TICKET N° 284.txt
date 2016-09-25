@@ -1,0 +1,17 @@
+1 (6)0051500026823 Blueberry syrup 41.78
+0 blueberry-syrup 41.78
+1 (8)0021000604647 Kraft singles 28.97
+1 (7)0033676533128 Chili beef nachos 0.4
+1 (4)0042200006024 Nudie - Orange Juice 77.4
+1 (7)0042222870009 Turkey Bacon 108.58
+0 desserts 215.35
+1 (2)0000087177756 7Up 95.21
+1 (7)0000886100252 Pepsi 21.79
+0 beverages 117
+1 (4)0016000002043 Tome fraîche 54.01
+1 (6)0016000006287 Pilons de poulet 34.11
+1 (1)0017063545145 Norwegian Jarlsberg 
+3 PRIX PROMOTION  5.92
+1 (4)0017077402354 Lifeway smoothie 99.4
+1 (1)0021130070664 1% lowfat milk 99.83
+0 dairies 293.27

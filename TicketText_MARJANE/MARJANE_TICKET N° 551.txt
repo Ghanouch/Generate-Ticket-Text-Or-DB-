@@ -1,0 +1,25 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Tabriquet 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-06-16 17:06:27 2 14 200
+1 (4)0012524702117 Caramel Popcorn 102.03
+1 (4)0012546315098 Dentyne fire 59.56
+0 caramel-popcorn 161.59
+1 (5)0006878982781 Rollmop Herrings 24.7
+1 (6)0007043057376 Creamy Chicken Pie 101.87
+0 harengs 126.57
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33
+1 (2)0002515783254 Pizza Parlanno 71.26
+1 (1)0003655932054 Mac 'n Cheese
+3 6 x 10.11 60.66
+1 (4)0022664647766 Cheesy Pizza 77.59
+1 (7)0025925532683 Buttermilk Pancake 
+3 PRIX PROMOTION  41.05
+1 (7)0026200140605 slim jim 90.3
+1 (8)0026200162362 slim jims 37.24
+0 meals 378.1
+1 (8)0041190031177 salt free rice cakes 85.64
+0 pierogies 85.64

@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin El Fida
+0 Route de El Fida lotissement badiaa 
+0 Casablanca
+2 2003-06-04 N° ticket: 0249
+2 TIME: 15:06:27
+1 Guava 8% 35.56
+3 6 X 63.04
+1 Medium Cheddar 8% 378.24
+1 Fruit Spread 2% 18.86
+1 Organic White Quinoa 2% 65.89
+1 FLAPJACK Mini Bites 13% 48.73
+0 TOTAL 547.28 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  547.32 DH 
+0 Dont TVA  14.57 DH
+0 ESPECES 597
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:6200 P:682 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

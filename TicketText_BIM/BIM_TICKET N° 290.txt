@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Sidi Bernoussi
+0 Route de Sidi Bernoussi lotissement badiaa 
+0 Casablanca
+2 2010-04-02 N° ticket: 0290
+2 TIME: 09:04:19
+1 Cherry Pie Filling 0% 12.41
+3 8 X 79.78
+1 Roasted garlic 10% 638.24
+1 Chicken arrabbiata 2% 8.68
+1 Crema Bel Paese 5% 54.99
+1 Eau de noix de coco 15% 19.34
+1 Hoisin sauce 10% 55.37
+1 Corn starch 8% 82.85
+3 2 X 62.25
+1 Clover honey 0% 124.5
+1 Cream of Coconut 20% 84.08
+1 Chicken Laksa 2% 83.16
+0 TOTAL 1 163.62 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 163.66 DH 
+0 Dont TVA  39.38 DH
+0 ESPECES 1213
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:2700 P:297 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

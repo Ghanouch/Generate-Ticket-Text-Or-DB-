@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Bouskoura
+0 Route de Bouskoura lotissement badiaa 
+0 Casablanca
+2 2014-12-08 N° ticket: 0115
+2 TIME: 16:12:47
+1 Cherry Pie Filling 0% 12.41
+1 lentils 10% 86.93
+1 Wholegrain Mustard 2% 56.17
+3 9 X 100.47
+1 Lemon Curd 5% 904.23
+1 Heavy whipping cream 2% 59.2
+3 4 X 96.54
+1 Oyster sauce 20% 386.16
+1 cut mixed peel 20% 118.08
+1 CHOCLATE BROWNIE 5% 36.47
+3 7 X 64.69
+1 Canned Pineapple 5% 452.83
+0 TOTAL 2 112.48 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 112.52 DH 
+0 Dont TVA  55.54 DH
+0 ESPECES 2162
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:5000 P:550 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

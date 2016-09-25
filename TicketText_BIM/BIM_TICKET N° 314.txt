@@ -1,0 +1,23 @@
+0 BIM STORES 
+0 Magasin Sidi Kacem
+0 Route de Sidi Kacem lotissement badiaa 
+0 Sidi Kacem
+2 2010-10-14 N° ticket: 0314
+2 TIME: 15:10:46
+1 Cottage Cheese 15% 4.01
+1 Tropik splash 2% 3.16
+1 Blue Bonnet 2% 82.35
+1 Coffee creamer 13% 4.5
+1 Irish pancakes 13% 86.47
+0 TOTAL 180.49 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  180.53 DH 
+0 Dont TVA  12.67 DH
+0 ESPECES 230
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:3500 P:385 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

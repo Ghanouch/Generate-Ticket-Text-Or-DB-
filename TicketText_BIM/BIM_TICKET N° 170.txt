@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Moulay Rachid
+0 Route de Moulay Rachid lotissement badiaa 
+0 Casablanca
+2 2009-08-09 N° ticket: 0170
+2 TIME: 14:08:49
+1 jamon de teruel dop 8% 6.91
+1 mortadella 8% 65.44
+1 Tartar 20% 104.39
+1 Wild Caught Shrimp 8% 53.32
+1 Sen-cha 5% 84.86
+1 Corned Beef 13% 91.9
+1 Cornichoner 13% 94.28
+1 Pretzel Crisps 15% 99.35
+1 vegetarian bean 15% 51.01
+1 Horseradish Cheddar 15% 37.1
+1 Thick wholemeal 15% 113.53
+0 TOTAL 802.09 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  802.13 DH 
+0 Dont TVA  91.43 DH
+0 ESPECES 852
+0 RENDU 50 
+0 NOMBRE ARTICLES  11
+0 M:6000 P:660 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

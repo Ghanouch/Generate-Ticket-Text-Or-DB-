@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Meknes
+0 Route de Meknes lotissement badiaa 
+0 Meknes
+2 2002-06-04 N° ticket: 0204
+2 TIME: 19:06:48
+1 Crema Bel Paese 5% 54.99
+1 Eau de noix de coco 15% 19.34
+1 miel 5% 58.15
+1 CHOCLATE BROWNIE 5% 36.47
+1 Canned Pineapple 5% 64.69
+1 Chicken Laksa 2% 83.16
+0 TOTAL 316.8 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  316.84 DH 
+0 Dont TVA  14.36 DH
+0 ESPECES 366
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:8100 P:891 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

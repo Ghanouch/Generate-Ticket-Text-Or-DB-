@@ -1,0 +1,29 @@
+0 BIM STORES 
+0 Magasin Fquih ben Salah
+0 Route de Fquih ben Salah lotissement badiaa 
+0 Fquih ben Salah
+2 2014-08-21 N° ticket: 0027
+2 TIME: 20:08:31
+1 Coconut Juice 8% 73.77
+1 lychee drink 5% 7.55
+1 Sardines in Water 13% 16.2
+1 Spoonettes 13% 48.23
+1 creamy smooth 1% 61.95
+1 Bean with Bacon 8% 66.28
+1 Cream of Mushroom 15% 90.3
+1 Chicken Chow Mein 1% 12.04
+3 7 X 83.2
+1 Fibre menu bleu 20% 582.4
+1 Whole Wheat Wraps 8% 12.2
+0 TOTAL 970.92 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  970.96 DH 
+0 Dont TVA  45.43 DH
+0 ESPECES 1020
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:5900 P:649 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

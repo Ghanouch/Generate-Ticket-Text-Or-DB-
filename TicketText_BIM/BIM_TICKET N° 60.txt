@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2006-08-10 N° ticket: 0060
+2 TIME: 11:08:14
+1 Chair à saucisse 2% 61.31
+3 8 X 83.78
+1 Honey roast ham 15% 670.24
+1 Chair à saucisse 2% 43.75
+1 Applesauce Natural 5% 68.31
+1 Fat Free Milk 10% 40.55
+0 TOTAL 884.16 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  884.2 DH 
+0 Dont TVA  19.93 DH
+0 ESPECES 934
+0 RENDU 50 
+0 NOMBRE ARTICLES  5
+0 M:6500 P:715 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

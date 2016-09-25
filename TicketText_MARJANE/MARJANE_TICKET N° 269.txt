@@ -1,0 +1,16 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE California
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-08-12 18:08:40 58 70 5800
+1 (5)0015778037830 Lemongrass Paste 107.72
+0 lemongrass-paste 107.72
+1 (2)0073836146288 Wholegrain Mustard 56.17
+0 wholegrain-mustard 56.17
+1 (5)0011110851819 Hoisin sauce 55.37
+1 (4)0011110854599 Corn starch 82.85
+1 (9)0011110861702 Clover honey 62.25
+0 hoisin-sauce 200.47
+1 (2)0060476587144 Caramel Dessert 32.33
+0 caramel-dessert 32.33

@@ -1,0 +1,30 @@
+0 BIM STORES 
+0 Magasin Ain Chock
+0 Route de Ain Chock lotissement badiaa 
+0 Casablanca
+2 2011-08-10 N° ticket: 0171
+2 TIME: 15:08:55
+1 Sweet mango Chutney 0% 66.53
+1 Kosher Dills 5% 96.76
+3 9 X 62.87
+1 Cornichons 20% 565.83
+1 Moutarde de Dijon 5% 61.19
+3 9 X 66.08
+1 Crumbled Feta Cheese 10% 594.72
+1 Sauce aux piments 5% 1.41
+1 Underwood 8% 41.43
+3 9 X 85.23
+1 Green food color 15% 767.07
+1 Red food color 10% 40.97
+0 TOTAL 2 235.91 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 235.95 DH 
+0 Dont TVA  41.98 DH
+0 ESPECES 2285
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:4300 P:473 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

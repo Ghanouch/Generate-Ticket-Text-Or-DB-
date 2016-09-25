@@ -1,0 +1,9 @@
+0 BIM STORES 
+0 Magasin Sidi Maârouf
+0 Route de Sidi Maârouf lotissement badiaa 
+0 Casablanca
+2 2002-06-18 N° ticket: 0157
+2 TIME: 08:06:52
+1 Very vanilla Soymilk 15% 48.47
+1 Rice flakes sheet 8% 101.71
+1 vegetarian bean 15% 51.01

@@ -1,0 +1,24 @@
+0 BIM STORES 
+0 Magasin Bouskoura
+0 Route de Bouskoura lotissement badiaa 
+0 Casablanca
+2 2014-10-02 N° ticket: 0183
+2 TIME: 12:10:48
+1 Blueberry syrup 15% 41.78
+1 True To Nature 2% 58.56
+1 Original Beef Stick 8% 99.75
+1 2 plaice fillets 10% 67.72
+1 Raisin Bran 5% 70.43
+1 Chicken Laksa 2% 83.16
+0 TOTAL 421.4 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  421.44 DH 
+0 Dont TVA  25.13 DH
+0 ESPECES 471
+0 RENDU 50 
+0 NOMBRE ARTICLES  6
+0 M:9600 P:1056 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,32 @@
+0 BIM STORES 
+0 Magasin El Fida
+0 Route de El Fida lotissement badiaa 
+0 Casablanca
+2 2009-12-12 N° ticket: 0321
+2 TIME: 20:12:45
+3 6 X 79.13
+1 Tropicana Cranberry 0% 474.78
+1 Jus d'orange 1% 10.51
+1 Tome fraîche 8% 54.01
+1 Pilons de poulet 15% 34.11
+1 Norwegian Jarlsberg 1% 6.92
+1 Lifeway smoothie 8% 99.4
+1 1% lowfat milk 1% 99.83
+1 Orange Blossom Water 13% 58.92
+1 Simply Ruffles 13% 98.28
+1 Sea Salt Potato Chips 10% 106.51
+1 Sea Salt Potato Chips 10% 23.3
+1 Sea Salt Potato Chips 10% 98.54
+1 Reduced fat milk 20% 73.72
+0 TOTAL 1 238.83 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 238.87 DH 
+0 Dont TVA  68.1 DH
+0 ESPECES 1288
+0 RENDU 50 
+0 NOMBRE ARTICLES  13
+0 M:4200 P:462 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

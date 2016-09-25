@@ -1,0 +1,21 @@
+0 BIM STORES 
+0 Magasin Mers Sultan
+0 Route de Mers Sultan lotissement badiaa 
+0 Casablanca
+2 2005-04-29 N° ticket: 0198
+2 TIME: 15:04:53
+1 Raspberry preserve 15% 69.48
+1 Pumpkin Seed Pecan 20% 70.54
+1 Stringless beans 10% 47.99
+0 TOTAL 188.01 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  188.05 DH 
+0 Dont TVA  25.18 DH
+0 ESPECES 238
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:4900 P:539 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

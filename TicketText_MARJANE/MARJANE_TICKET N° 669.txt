@@ -1,0 +1,19 @@
+1 (4)0053859201111 Guava 35.56
+1 (7)0053859661106 Mango 60.5
+0 guava-juice 96.06
+1 (3)0012345678912 led
+3 9 x 88.04 792.36
+1 (2)0012496603304 mini chocolate logs 51.73
+1 (4)0012511202316 Organic Blue Agave 6.96
+1 (6)0012511212322 Agave 45.93
+1 (2)0012511464103 Organic Sugar  79.85
+0 jamaican-jerk 976.83
+1 (8)0010786091585 Chips de légumes
+3 8 x 28.67 229.36
+1 (2)0011632975144 Breast fillets 22.03
+1 (4)0013562777778 Organic Mac 78.73
+0 salty-snacks 330.12
+1 (3)0073007106730 Prosciutto 66.6
+0 prosciutto 66.6
+1 (5)0068749282246 tikka masala sauce 11.85
+0 sauce-tikka-masala 11.85

@@ -1,0 +1,8 @@
+1 (3)0084909003904 Palm Sugar 57.71
+0 palm-sugar 57.71
+1 (6)0073007007303 Italian Dry Salame 55.72
+0 hot-fudge 55.72
+1 (8)0078907450396 Original Salsitas 85.91
+0 salsa-chips 85.91
+1 (6)0037466081342 Swiss thin 27.9
+0 chocolats 27.9

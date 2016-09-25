@@ -1,0 +1,20 @@
+0 BIM STORES 
+0 Magasin Mers Sultan
+0 Route de Mers Sultan lotissement badiaa 
+0 Casablanca
+2 2005-02-01 N° ticket: 0016
+2 TIME: 13:02:24
+1 Garden peas 13% 36.22
+1 fine beans 5% 92.95
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+1 Original Syrup 15% 85.55
+1 Cinnamon sugar 15% 12.34
+1 Pure maple syrup 5% 53.4
+1 guava nectar 2% 78.13
+3 10 X 35.03
+1 Maple Syrup 2% 350.3
+3 4 X 67.72
+1 2 plaice fillets 10% 270.88
+1 Raisin Bran 5% 70.43
+1 Tasty Tartar Sauce 2% 36.91

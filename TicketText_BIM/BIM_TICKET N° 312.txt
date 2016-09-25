@@ -1,0 +1,9 @@
+0 BIM STORES 
+0 Magasin Sala Al Jadnamea
+0 Route de Sala Al Jadnamea lotissement badiaa 
+0 Salé
+2 2014-04-28 N° ticket: 0312
+2 TIME: 17:04:21
+3 8 X 62.06
+1 Vinaigre basalmic 10% 496.48
+1 Crème Caramel Flan 10% 4.17

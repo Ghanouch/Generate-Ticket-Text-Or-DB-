@@ -1,0 +1,17 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Kénitra 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2014-08-30 11:08:43 25 37 2500
+1 (2)0059527305983 True To Nature 58.56
+0 snack-bar 58.56
+1 (8)0025638880022 Orange Blossom Water 58.92
+0 orange-blossom-water 58.92
+1 (8)0033383655857 Grape Tomatoes 75.72
+0 grape-tomatoes 75.72
+1 (2)0080960315235 Chicken Korma 78.05
+0 poulet-korma 78.05
+1 (4)0085206727552 Sicilian Lemon Curd
+3 8 x 56.21 449.68
+0 creme-de-citron 449.68

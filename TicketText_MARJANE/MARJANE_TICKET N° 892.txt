@@ -1,0 +1,16 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Hay Riad 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2012-04-14 11:04:07 99 111 9900
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice 
+3 PRIX PROMOTION  105.71
+0 fruit-juices 151.33
+1 (6)0031506948169 Horseradish Cheddar 37.1
+1 (6)0031528903820 Thick wholemeal 113.53
+0 cheddar 150.63
+1 (6)0021908459899 Peanut butter bliss
+3 4 x 6.99 27.96
+0 peanut-butter-bliss 27.96

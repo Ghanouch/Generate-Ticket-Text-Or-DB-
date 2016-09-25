@@ -1,0 +1,15 @@
+0 BIM STORES 
+0 Magasin Rabat Hassan
+0 Route de Rabat Hassan lotissement badiaa 
+0 Rabat
+2 2010-10-02 N° ticket: 0056
+2 TIME: 17:10:22
+1 Venison Leg/Steaks 15% 19.09
+1 Coconut Juice 8% 73.77
+1 lychee drink 5% 7.55
+1 Sardines in Water 13% 16.2
+1 Spoonettes 13% 48.23
+1 creamy smooth 1% 61.95
+3 6 X 11.67
+1 Haricots blancs 15% 70.02
+1 FLAPJACK Mini Bites 13% 48.73

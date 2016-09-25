@@ -1,0 +1,18 @@
+0 MARJANE
+0 MARJANE HOLDING
+0 HYPERMARCHE Béni Mellal 
+0 GASOIL <8.03 K-8 CTS> 
+0 SUPER <9.02 K-9 CTS> 
+2 2010-06-11 15:06:52 72 84 7200
+1 (2)0057459625179 Saussice amore
+3 2 x 27.49 54.98
+0  54.98
+1 (8)0035846020872 Garden peas 36.22
+1 (3)0035898984640 fine beans 92.95
+0 garden-peas 129.17
+1 (6)0045518397664 Venison Leg/Steaks 19.09
+0 venison 19.09
+1 (5)0073490125126 Vinaigre basalmic 62.06
+1 (5)0073491024015 Crème Caramel Flan 4.17
+1 (6)0073534688833 Empress grey teabags 37.93
+0 vinegars 104.16

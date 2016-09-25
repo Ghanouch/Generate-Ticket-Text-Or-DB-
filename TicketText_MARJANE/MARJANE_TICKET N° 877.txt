@@ -1,0 +1,13 @@
+1 (4)0053859201111 Guava 35.56
+1 (7)0053859661106 Mango 60.5
+0 guava-juice 96.06
+1 (8)0030370502578 Simply M&S  oatcakes 17.67
+0 oatcakes 17.67
+1 (7)0011110862815 Pumpkin Seed Pecan 70.54
+0 pumpkin-seed-pecan 70.54
+1 (6)0078907470370 Guacachip 66.37
+0 tortilla-chips 66.37
+1 (5)0037600190671 Spam Single Classic 103.53
+0 precooked-meat 103.53
+1 (6)0071962208858 Dill sauce 6.43
+0 dill-sauce 6.43

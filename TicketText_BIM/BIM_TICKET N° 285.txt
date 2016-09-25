@@ -1,0 +1,27 @@
+0 BIM STORES 
+0 Magasin Ain Chock
+0 Route de Ain Chock lotissement badiaa 
+0 Casablanca
+2 2011-10-18 N° ticket: 0285
+2 TIME: 17:10:55
+1 A&W Rootbeer 13% 97.63
+1 Mini Cups 20% 45.79
+1 Nutella 20% 62.95
+1 Ikea Lachs 15% 95.54
+3 5 X 110.1
+1 Lait de coco 15% 550.5
+1 Fiber One Lemon Bar 5% 0.57
+1 Medium Cheddar 8% 63.04
+1 Amandino blanches 13% 86.12
+0 TOTAL 1 002.14 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 002.18 DH 
+0 Dont TVA  70.78 DH
+0 ESPECES 1052
+0 RENDU 50 
+0 NOMBRE ARTICLES  8
+0 M:8600 P:946 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

@@ -1,0 +1,31 @@
+0 BIM STORES 
+0 Magasin Hamname
+0 Route de Hamname lotissement badiaa 
+0 Marrakech
+2 2012-04-22 N° ticket: 0279
+2 TIME: 10:04:36
+1 Organic Baby Arugula 1% 39.75
+1 Orange Blossom Water 13% 58.92
+1 mr noodle 15% 98.69
+3 9 X 96.82
+1 Fusilli 5% 871.38
+3 5 X 43.68
+1 Guers diet tea 2% 218.4
+3 10 X 94.28
+1 Cornichoner 13% 942.8
+1 Pretzel Crisps 15% 99.35
+1 Horseradish Cheddar 15% 37.1
+1 Thick wholemeal 15% 113.53
+1 Peanut butter bliss 15% 6.99
+0 TOTAL 2 486.91 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  2 486.95 DH 
+0 Dont TVA  69.88 DH
+0 ESPECES 2536
+0 RENDU 50 
+0 NOMBRE ARTICLES  10
+0 M:9700 P:1067 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

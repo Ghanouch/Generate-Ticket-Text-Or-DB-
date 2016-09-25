@@ -1,0 +1,21 @@
+0 BIM STORES 
+0 Magasin Hay Hassani
+0 Route de Hay Hassani lotissement badiaa 
+0 Casablanca
+2 2008-06-22 N° ticket: 0259
+2 TIME: 16:06:37
+1 Citrus Green Tea 8% 99.46
+1 Cottage Cheese 15% 4.01
+1 Tropik splash 2% 3.16
+0 TOTAL 106.63 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  106.67 DH 
+0 Dont TVA  7.95 DH
+0 ESPECES 156
+0 RENDU 50 
+0 NOMBRE ARTICLES  3
+0 M:9900 P:1089 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

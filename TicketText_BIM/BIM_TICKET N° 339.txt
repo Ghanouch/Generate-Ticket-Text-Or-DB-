@@ -1,0 +1,8 @@
+0 BIM STORES 
+0 Magasin Salé
+0 Route de Salé lotissement badiaa 
+0 Salé
+2 2005-12-18 N° ticket: 0339
+2 TIME: 18:12:36
+3 3 X 96.34
+1 Redbush Teabags 5% 289.02

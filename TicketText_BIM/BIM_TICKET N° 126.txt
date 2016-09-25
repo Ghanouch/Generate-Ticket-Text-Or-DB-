@@ -1,0 +1,28 @@
+0 BIM STORES 
+0 Magasin Nouaceur
+0 Route de Nouaceur lotissement badiaa 
+0 Casablanca
+2 2009-10-25 N° ticket: 0126
+2 TIME: 19:10:48
+1 Dark Chocolate Mints 8% 85.6
+1 Mini Cups 20% 45.79
+1 Carb Intercept 8% 65.1
+1 Vitamin D3 20% 91.73
+1 Shrimp fried rice 8% 38.59
+3 10 X 96.34
+1 Redbush Teabags 5% 963.4
+1 Reese minis 13% 23.02
+1 Riz basmati 10% 22.53
+1 Yogurt 2% 79.32
+0 TOTAL 1 415.08 DH 
+0 DROITS DE TIMBRE 0.04 DH 
+0 TOTAL TTC  1 415.12 DH 
+0 Dont TVA  47.78 DH
+0 ESPECES 1465
+0 RENDU 50 
+0 NOMBRE ARTICLES  9
+0 M:2300 P:253 C:5 Mr.jamal
+0 MERCI DE VOTRE VISITE ET A BIENTOT ....
+0 PATENTE:29472737 Id.Fiscal:1108770 
+0 R.C.No :8633 CNSS :7764987 
+0 ICE:001527053000001

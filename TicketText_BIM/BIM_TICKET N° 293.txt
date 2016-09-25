@@ -1,0 +1,17 @@
+0 BIM STORES 
+0 Magasin Mediouna
+0 Route de Mediouna lotissement badiaa 
+0 Mediouna
+2 2010-12-25 N° ticket: 0293
+2 TIME: 08:12:04
+1 Venison Leg/Steaks 15% 19.09
+1 100 % Maple syrup 2% 53.56
+1 British Icing Sugar 8% 17.82
+1 Mini Cups 20% 45.79
+1 Nutella 20% 62.95
+1 Spam 50% Less Sodium 1% 7.61
+3 6 X 25.11
+1 Olive Bruschetta 8% 150.66
+1 Cilantro salsa mild 2% 42.21
+1 Salsa Verde 5% 67.93
+1 Salsa Casera Mild 10% 83.35

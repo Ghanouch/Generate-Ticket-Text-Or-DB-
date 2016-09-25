@@ -1,0 +1,28 @@
+1 (9)0048500008386 Tropicana Cranberry 79.13
+1 (1)0048500018347 Jus d'orange 10.51
+0 juice-beverage 89.64
+1 (5)0077728558464 Sliced sharp cheddar 36.42
+0 sliced-cheddar 36.42
+1 (7)0012000374012 Strawberry Lemonade 45.62
+1 (5)0021130314300 Safeway apple juice 106.71
+1 (4)0025000056031 100% Orange Juice 47.49
+1 (6)0028000984434 Juicy Juice Apple
+3 10 x 16.09 160.9
+1 (2)0028396028738 apple juice 58.27
+1 (4)0029000011496 planters nut-rition 26.23
+1 (2)0037617390248 Pom Pur Jus de pomme 
+3 PRIX PROMOTION  22.15
+0 fruit-juices 555.97
+1 (5)0040100007295 Instant Dry Yeast 93.95
+1 (4)0040232751202 Bayani brew
+3 4 x 68.91 275.64
+0 instant-dry-yeast 369.59
+1 (6)0028400039079 Sunflower seeds
+3 4 x 66.78 267.12
+1 (4)0028400040808 Fruit tea sampler 
+3 7 x 30.25 211.75
+1 (2)0028400055161 Stax barbecue 27.76
+1 (5)0038000844966 Pringles Original 102.66
+1 (6)0044000006778 Ritz Bits Cheese 10.55
+1 (6)0044000030377 Wheat Thins Original 81.78
+0 snacks 701.62
