@@ -2,17 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/Commande.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/GeneriqueProductToDb/ProductToDb.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/TicketToDb/TicketToDb.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/UserToDb/to_db.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/TicketToDb/Ticket.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/Generate_Random/Generate.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/DAOperations/DAO.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/SalesToDb/SalesToDb.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/BuildTicketText/TicketOperations.java</file>
-            <file>file:/C:/wamp/www/Generation/Generation/Generate_Ticket/src/Service/Service.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
